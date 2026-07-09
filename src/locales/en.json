@@ -1,40 +1,31 @@
 {
   "site": {
-    "name": "Haze Seas Wiki",
-    "shortName": "Haze Seas",
-    "tagline": "Fan-Made Community Wiki",
-    "description": "Haze Seas Wiki helps Roblox players track fruits, races, bosses, islands, official links, update notes, and beginner progression for Haze Studios' One Piece-inspired sea adventure.",
-    "legalNotice": "Independent fan wiki. Not affiliated with Haze Studios, Roblox, or official Haze Seas channels."
+    "name": "Marvel Rivals Season 9 Wiki",
+    "shortName": "Marvel Rivals Season 9",
+    "tagline": "Fan-Made Season 9 Community Wiki",
+    "description": "Marvel Rivals Season 9 Wiki helps players track The Mystery of Thebes with release details, beginner guides, hero picks, team-up changes, balance notes, maps, events, and updated meta tips for NetEase's free-to-play hero shooter.",
+    "legalNotice": "Independent fan wiki. Not affiliated with NetEase Games, Marvel, Disney, or official Marvel Rivals channels."
   },
-  "nav": {
-    "codes": "Codes",
-    "guide": "Guide",
-    "tier-list": "Tier List",
-    "fruits": "Fruits",
-    "styles": "Styles",
-    "weapons": "Weapons",
-    "updates": "Updates",
-    "resources": "Resources"
-  },
+  "nav": {},
   "home": {
     "meta": {
-      "title": "Haze Seas Wiki - Guide, Fruits & Races",
-      "description": "Track the Haze Seas rework, compare fruits and races, learn island progression, and find beginner-friendly guides for bosses, leveling, and builds."
+      "title": "Marvel Rivals Season 9 Wiki — Guides & Patch Notes",
+      "description": "Fan-made Marvel Rivals Season 9 wiki with release details, beginner guides, hero picks, team-up changes, balance notes, maps, events, and updated meta tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "Haze Seas Wiki",
-      "description": "Haze Seas is a One Piece-inspired Roblox sea adventure focused on devil fruits, race progression, boss farming, and island-to-island exploration. Use this fan wiki to follow the rework, compare builds, and find official Haze Seas links fast.",
+      "eyebrow": "Fan-Made Season 9 Community Wiki",
+      "title": "Marvel Rivals Season 9 Wiki",
+      "description": "Track The Mystery of Thebes with clear Season 9 guides, patch notes, hero picks, team-up changes, maps, and event coverage. Built for returning players, new players, and competitive teams who want fast answers without digging through long updates.",
       "stats": [
-        "Created Jun 2021",
-        "Rework launched Jun 30 2026",
-        "239.7M Visits",
-        "3.14M Favorites",
-        "34 Fruits"
+        "Launched Dec 5, 2024",
+        "Season 9 Begins Jul 10, 2026 UTC",
+        "Version 20260710 Balance Update",
+        "398K+ Steam Reviews",
+        "644K Steam All-Time Peak"
       ],
-      "primaryCta": "View Roblox Page",
-      "secondaryCta": "Join Official Discord",
-      "tertiaryCta": "Watch Official YouTube",
+      "primaryCta": "Start Beginner Guide",
+      "secondaryCta": "Read Season 9 Patch Notes",
+      "tertiaryCta": "Explore Hero Team-Ups",
       "videoLabel": "Official media",
       "closeVideo": "Close video"
     },
@@ -466,44 +457,20 @@
       ]
     },
     "finalCta": {
-      "title": "Follow Haze Seas Release Updates",
-      "description": "Use the official Roblox event, Roblox game page, Discord, YouTube, and Trello links to track the Haze Seas rework while this fan wiki organizes fruits, races, bosses, and progression notes.",
-      "primary": "Track Roblox Event",
-      "secondary": "Open Official Trello"
+      "title": "Ready to Master Marvel Rivals Season 9?",
+      "description": "From your first Season 9 match to advanced hero pairings and balance changes, this fan-made wiki helps you understand what changed, what to play, and how to improve faster.",
+      "primary": "Read the Beginner Guide",
+      "secondary": "Play Marvel Rivals"
     }
   },
-  "codes": {
-    "overviewTitle": "Haze Seas Codes",
-    "overviewDescription": "Browse Haze Seas code guides, reward tables, redemption steps, and code status notes for launch and future updates."
-  },
-  "guide": {
-    "overviewTitle": "Haze Seas Guide",
-    "overviewDescription": "Follow beginner routes, leveling advice, boss notes, race progression, Haki unlocks, and core progression guides for Haze Seas."
-  },
-  "tier-list": {
-    "overviewTitle": "Haze Seas Tier List",
-    "overviewDescription": "Compare Haze Seas fruits, swords, and build choices by farming speed, boss value, mobility, utility, and PvP strength."
-  },
-  "fruits": {
-    "overviewTitle": "Haze Seas Fruits",
-    "overviewDescription": "Track Haze Seas fruits, awakenings, reworks, transformations, and fruit-specific guides for Dragon, Gum, Tremor, Electricity, and more."
-  },
-  "styles": {
-    "overviewTitle": "Haze Seas Styles",
-    "overviewDescription": "Learn Haze Seas fighting styles, trainer paths, style evolutions, and close-range combat options including Black Leg, Fishman, Electro, Cyborg, and Dragonic."
-  },
-  "weapons": {
-    "overviewTitle": "Haze Seas Weapons",
-    "overviewDescription": "Compare Haze Seas weapons and swords by obtainment, upgrades, movesets, combat role, and key weapon progression goals."
-  },
-  "updates": {
-    "overviewTitle": "Haze Seas Updates",
-    "overviewDescription": "Follow Haze Seas release coverage, update notes, trailers, rework information, and Haze Piece revamp references."
-  },
-  "resources": {
-    "overviewTitle": "Haze Seas Resources",
-    "overviewDescription": "Find official and community Haze Seas resources including Roblox, Discord, Trello, and wiki references."
-  },
+  "codes": {},
+  "guide": {},
+  "tier-list": {},
+  "fruits": {},
+  "styles": {},
+  "weapons": {},
+  "updates": {},
+  "resources": {},
   "legal": {
     "privacyPolicy": {
       "title": "Privacy Policy",
@@ -560,22 +527,22 @@
     "home": "Home",
     "noGuidesAvailable": "No guides available yet. Check back soon!",
     "noActiveCode": "No active code",
-    "noCodesConfirmed": "No officially confirmed Haze Seas codes are available yet.",
-    "futureCodeDrops": "Watch the official Discord and Trello for future code drops."
+    "noCodesConfirmed": "No officially confirmed Marvel Rivals Season 9 codes are available yet.",
+    "futureCodeDrops": "Watch the official Discord and X for future code drops."
   },
   "footer": {
-    "aboutTitle": "Haze Seas Wiki",
-    "about": "Haze Seas Wiki is an independent fan guide for Roblox players who want faster answers on fruits, races, bosses, islands, official links, and progression. It turns scattered Haze Seas updates into cleaner reference pages for beginners and grinders alike.",
+    "aboutTitle": "Marvel Rivals Season 9 Wiki",
+    "about": "Marvel Rivals Season 9 Wiki is an independent fan-made guide site for The Mystery of Thebes update. It covers beginner guides, patch notes, hero picks, team-up changes, maps, events, and practical meta tips for players who want fast answers.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 Haze Seas Wiki. Not affiliated with Haze Studios or Roblox.",
-    "description": "One Piece-inspired Roblox sea adventure from Haze Studios with fruits, boss farming, race progression, islands, and a major Haze Seas rework.",
-    "playGame": "Open Haze Seas on Roblox",
+    "copyright": "2026 Marvel Rivals Season 9 Wiki. Not affiliated with NetEase Games, Marvel, or Disney.",
+    "description": "Free-to-play Marvel team-based hero shooter with seasonal heroes, team-up skills, destructible maps, and fast 6v6 combat.",
+    "playGame": "Play Marvel Rivals",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "officialWebsite": "Official Roblox Event",
-    "robloxGroup": "Haze Studios Roblox Page",
+    "officialWebsite": "Official Marvel Rivals",
+    "robloxGroup": "Official Steam Page",
     "beginnerGuide": "Guide",
     "codesGuide": "Codes",
     "tierLists": "Tier List",
@@ -586,9 +553,9 @@
     "resourcesGuide": "Resources",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
-    "officialEvent": "Official Roblox Event",
-    "communityTool": "Official Trello",
-    "officialWiki": "Official Wiki",
+    "officialEvent": "Official Marvel Rivals",
+    "communityTool": "Marvel Rivals Esports",
+    "officialWiki": "Official Marvel Rivals",
     "officialX": "Official X",
     "officialReddit": "Official Reddit"
   }

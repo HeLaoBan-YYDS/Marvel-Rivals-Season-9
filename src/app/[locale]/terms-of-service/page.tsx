@@ -4,7 +4,7 @@ import { LegalPage } from "@/components/legal-page";
 import { getLanguageAlternates, getLocalizedPath, getLocalizedUrl } from "@/i18n/routing";
 import en from "@/locales/en.json";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://hazeseas.help";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://marvelrivalsseason9wiki.wiki";
 type Messages = typeof en;
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {

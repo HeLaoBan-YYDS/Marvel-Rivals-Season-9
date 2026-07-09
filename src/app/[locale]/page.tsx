@@ -6,17 +6,15 @@ import { getLanguageAlternates, getLocalizedPath, getLocalizedUrl, type Locale }
 import en from "@/locales/en.json";
 import HomePageClient from "./HomePageClient";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://hazeseas.help";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://marvelrivalsseason9wiki.wiki";
 const officialLinks = [
-  "https://www.roblox.com/games/6918802270/HAZE-PIECE",
-  "https://www.roblox.com/events/4232548068492050700",
-  "https://discord.com/invite/hazeseas",
-  "https://www.youtube.com/channel/UCtqa-vsjgKYhQA99nF9izag",
-  "https://www.youtube.com/watch?v=uLhv4-5NRCc",
-  "https://trello.com/b/nn8bpTB0/haze-seas-official-trello",
-  "https://haze-piece-official.fandom.com/wiki/Haze_Piece_Wiki_Official",
-  "https://www.reddit.com/r/haze_piece/",
-  "https://x.com/Haze_Seas",
+  "https://www.marvelrivals.com/",
+  "https://store.steampowered.com/app/2767030/Marvel_Rivals/",
+  "https://discord.gg/marvelrivals",
+  "https://twitter.com/MarvelRivals",
+  "https://www.youtube.com/@MarvelRivals",
+  "https://www.twitch.tv/marvelrivals",
+  "https://www.marvelrivalsesports.com/",
 ];
 
 type Messages = typeof en;

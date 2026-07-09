@@ -1,8 +1,8 @@
 {
-  "id": "https://hazeseas.help/",
-  "name": "Haze Seas Wiki",
-  "short_name": "Haze Seas",
-  "description": "Fan-made Haze Seas Roblox wiki with fruits, races, bosses, islands, beginner routes, release updates, and community guide coverage.",
+  "id": "https://marvelrivalsseason9wiki.wiki/",
+  "name": "Marvel Rivals Season 9 Wiki",
+  "short_name": "MR Season 9",
+  "description": "Fan-made Marvel Rivals Season 9 wiki with release details, beginner guides, hero picks, team-up changes, balance notes, maps, events, and updated meta tips.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
@@ -11,8 +11,8 @@
   "lang": "en",
   "dir": "ltr",
   "categories": ["games", "entertainment", "education"],
-  "background_color": "#050d12",
-  "theme_color": "#1bb9ee",
+  "background_color": "#050a12",
+  "theme_color": "#E62429",
   "prefer_related_applications": false,
   "icons": [
     {
@@ -50,7 +50,7 @@
     {
       "name": "Beginner Guide",
       "short_name": "Guide",
-      "description": "Open the Haze Seas beginner guide.",
+      "description": "Open the Marvel Rivals Season 9 beginner guide.",
       "url": "/guide",
       "icons": [
         {
@@ -61,10 +61,10 @@
       ]
     },
     {
-      "name": "Codes Tracker",
-      "short_name": "Codes",
-      "description": "Check Haze Seas code and update coverage.",
-      "url": "/codes",
+      "name": "Patch Notes",
+      "short_name": "Patch",
+      "description": "Read Marvel Rivals Season 9 patch notes and balance updates.",
+      "url": "/updates",
       "icons": [
         {
           "src": "/android-chrome-192x192.png",

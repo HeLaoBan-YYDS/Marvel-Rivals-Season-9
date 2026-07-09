@@ -4,7 +4,7 @@ import { getLocalizedUrl, routing } from "@/i18n/routing";
 import { getAllContentPaths } from "@/lib/content";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://hazeseas.help";
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://marvelrivalsseason9wiki.wiki";
   const lastModified = new Date();
   const staticPaths = [
     "/",

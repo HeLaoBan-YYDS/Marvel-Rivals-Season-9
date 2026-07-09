@@ -17,12 +17,11 @@ type Home = typeof en.home;
 
 const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swords, MapIcon, Users, Trophy, Skull, Zap, CircleHelp, ScrollText];
 
-const YOUTUBE_VIDEO_ID = "uLhv4-5NRCc";
-const ROBLOX_GAME_URL = "https://www.roblox.com/games/6918802270/HAZE-PIECE";
-const OFFICIAL_EVENT_URL = "https://www.roblox.com/events/4232548068492050700";
-const DISCORD_URL = "https://discord.com/invite/hazeseas";
-const YOUTUBE_CHANNEL_URL = "https://www.youtube.com/channel/UCtqa-vsjgKYhQA99nF9izag";
-const OFFICIAL_TRELLO_URL = "https://trello.com/b/nn8bpTB0/haze-seas-official-trello";
+const YOUTUBE_VIDEO_ID = "YusekrZKvwQ";
+const OFFICIAL_SITE_URL = "https://www.marvelrivals.com/";
+const DISCORD_URL = "https://discord.gg/marvelrivals";
+const YOUTUBE_CHANNEL_URL = "https://www.youtube.com/@MarvelRivals";
+const OFFICIAL_STEAM_URL = "https://store.steampowered.com/app/2767030/Marvel_Rivals/";
 
 function localizeHref(href: string, locale: string) {
   return getLocalizedPath(locale, href);
@@ -47,7 +46,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         <div className="mt-4 flex flex-wrap items-center justify-center gap-1.5">{home.hero.stats.map((stat) => <span key={stat} className="inline-flex items-center gap-1 rounded-full bg-muted px-2.5 py-0.5 text-xs font-medium text-muted-foreground">{stat}</span>)}</div>
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           <Button asChild size="lg">
-            <Link href={ROBLOX_GAME_URL}>{home.hero.primaryCta}<ArrowRight className="ml-2 h-4 w-4" /></Link>
+            <Link href={OFFICIAL_SITE_URL}>{home.hero.primaryCta}<ArrowRight className="ml-2 h-4 w-4" /></Link>
           </Button>
           <Button asChild size="lg" variant="outline">
             <Link href={DISCORD_URL}>{home.hero.secondaryCta}</Link>
@@ -251,7 +250,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
       <section><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.faq.title}</h2><p className="mt-2 text-muted-foreground">{home.faq.description}</p><Accordion type="single" collapsible className="mt-6 rounded-2xl border border-border bg-card/70 px-5">{home.faq.items.map((item, index) => <AccordionItem key={item.question} value={`item-${index}`}><AccordionTrigger className="text-left text-foreground">{item.question}</AccordionTrigger><AccordionContent className="leading-7 text-muted-foreground">{item.answer}</AccordionContent></AccordionItem>)}</Accordion></section>
 
       {/* Final CTA (curated, stays in JSON) */}
-      <section className="rounded-3xl border border-border bg-gradient-to-br from-muted to-card p-8 text-center"><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.finalCta.title}</h2><p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{home.finalCta.description}</p><div className="mt-6 flex flex-wrap justify-center gap-3"><Button asChild size="lg"><Link href={OFFICIAL_EVENT_URL}>{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button><Button asChild size="lg" variant="outline"><Link href={OFFICIAL_TRELLO_URL}>{home.finalCta.secondary}</Link></Button></div></section>
+      <section className="rounded-3xl border border-border bg-gradient-to-br from-muted to-card p-8 text-center"><h2 className="text-3xl font-bold tracking-tight text-foreground">{home.finalCta.title}</h2><p className="mx-auto mt-3 max-w-2xl text-muted-foreground">{home.finalCta.description}</p><div className="mt-6 flex flex-wrap justify-center gap-3"><Button asChild size="lg"><Link href={OFFICIAL_STEAM_URL}>{home.finalCta.primary}<ArrowRight className="ml-2 h-4 w-4" /></Link></Button><Button asChild size="lg" variant="outline"><Link href={YOUTUBE_CHANNEL_URL}>{home.finalCta.secondary}</Link></Button></div></section>
     </div>
   );
 }

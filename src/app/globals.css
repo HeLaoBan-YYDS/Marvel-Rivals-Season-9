@@ -24,8 +24,8 @@
     --input: 0 0% 88%;
     --ring: 18 65% 42%;
     --radius: 0.75rem;
-    --nav-theme: 195 86% 42%;
-    --nav-theme-light: 193 88% 52%;
+    --nav-theme: 358 80% 52%;
+    --nav-theme-light: 358 88% 62%;
     --chart-1: 18 65% 42%;
     --chart-2: 175 32% 42%;
     --chart-3: 221 30% 42%;
@@ -53,8 +53,8 @@
     --border: 0 0% 18%;
     --input: 0 0% 18%;
     --ring: 18 65% 45%;
-    --nav-theme: 195 86% 52%;
-    --nav-theme-light: 190 82% 62%;
+    --nav-theme: 358 80% 52%;
+    --nav-theme-light: 190 95% 58%;
   }
 }
 

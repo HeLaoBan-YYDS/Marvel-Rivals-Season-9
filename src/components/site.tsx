@@ -14,14 +14,14 @@ import { CollapsibleNavGroup } from "@/components/collapsible-nav-group";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { ClientThemeToggle } from "@/components/theme-toggle";
 
-const ROBLOX_GAME_URL = "https://www.roblox.com/games/6918802270/HAZE-PIECE";
-const OFFICIAL_SITE_URL = "https://www.roblox.com/events/4232548068492050700";
-const DISCORD_URL = "https://discord.com/invite/hazeseas";
-const YOUTUBE_CHANNEL_URL = "https://www.youtube.com/channel/UCtqa-vsjgKYhQA99nF9izag";
-const COMMUNITY_TOOL_URL = "https://trello.com/b/nn8bpTB0/haze-seas-official-trello";
-const OFFICIAL_WIKI_URL = "https://haze-piece-official.fandom.com/wiki/Haze_Piece_Wiki_Official";
-const REDDIT_URL = "https://www.reddit.com/r/haze_piece/";
-const X_URL = "https://x.com/Haze_Seas";
+const OFFICIAL_SITE_URL = "https://www.marvelrivals.com/";
+const DISCORD_URL = "https://discord.gg/marvelrivals";
+const YOUTUBE_CHANNEL_URL = "https://www.youtube.com/@MarvelRivals";
+const COMMUNITY_TOOL_URL = "https://www.marvelrivalsesports.com/";
+const OFFICIAL_WIKI_URL = "https://en.wikipedia.org/wiki/Marvel_Rivals";
+const STEAM_URL = "https://store.steampowered.com/app/2767030/Marvel_Rivals/";
+const X_URL = "https://twitter.com/MarvelRivals";
+const TWITCH_URL = "https://www.twitch.tv/marvelrivals";
 
 export function localizeHref(href: string, locale: string) {
   return getLocalizedPath(locale, href);
@@ -36,7 +36,8 @@ export async function SiteHeader({ locale }: { locale: string }) {
         <span className="grid h-9 w-9 place-items-center overflow-hidden rounded-xl border border-[hsl(var(--nav-theme-light))] bg-background shadow-sm" aria-hidden="true">
           <Image src="/android-chrome-192x192.png" alt="" width={32} height={32} className="h-8 w-8 object-contain" priority />
         </span>
-        <span className="text-sm font-bold tracking-wide text-foreground">Haze Seas</span>
+        <span className="flex h-9 w-9 items-center justify-center rounded-xl border border-[hsl(var(--nav-theme))] bg-[hsl(var(--nav-theme))] text-sm font-extrabold tracking-tight text-primary-foreground shadow-sm" aria-hidden="true">M</span>
+        <span className="text-sm font-bold tracking-wide text-foreground">Marvel Rivals Season 9</span>
       </Link>
       <nav className="hidden items-center gap-1 md:flex">
         {NAVIGATION_CONFIG.map((item) => (
@@ -125,7 +126,7 @@ export async function SiteFooter({ locale }: { locale: string }) {
         <div className="mb-10 rounded-2xl border border-border bg-muted/40 p-5">
           <div className="font-bold text-foreground">{t("aboutTitle")}</div>
           <p className="mt-1 text-sm text-muted-foreground">{t("description")}</p>
-          <Link href={ROBLOX_GAME_URL} className="mt-3 inline-flex items-center gap-2 text-sm font-semibold text-[hsl(var(--nav-theme))]">{t("playGame")} <ExternalLink className="h-4 w-4" /></Link>
+          <Link href={STEAM_URL} className="mt-3 inline-flex items-center gap-2 text-sm font-semibold text-[hsl(var(--nav-theme))]">{t("playGame")} <ExternalLink className="h-4 w-4" /></Link>
         </div>
         <p className="mb-8 text-xs font-bold uppercase tracking-[0.2em] text-muted-foreground">{site("legalNotice")}</p>
         <div className="grid gap-8 md:grid-cols-4">
@@ -133,7 +134,7 @@ export async function SiteFooter({ locale }: { locale: string }) {
             <h3 className="font-bold text-foreground">{t("aboutTitle")}</h3>
             <p className="mt-3 max-w-xl text-sm leading-7 text-muted-foreground">{t("about")}</p>
           </div>
-          <FooterList locale={locale} title={t("quickLinks")} links={[[t("playGame"), ROBLOX_GAME_URL], [t("officialEvent"), OFFICIAL_SITE_URL], [t("officialDiscord"), DISCORD_URL], [t("officialYoutube"), YOUTUBE_CHANNEL_URL], [t("officialWiki"), OFFICIAL_WIKI_URL], [t("officialX"), X_URL], [t("officialReddit"), REDDIT_URL], [t("communityTool"), COMMUNITY_TOOL_URL]]} />
+          <FooterList locale={locale} title={t("quickLinks")} links={[[t("playGame"), STEAM_URL], [t("officialEvent"), OFFICIAL_SITE_URL], [t("officialDiscord"), DISCORD_URL], [t("officialYoutube"), YOUTUBE_CHANNEL_URL], [t("officialWiki"), OFFICIAL_WIKI_URL], [t("officialX"), X_URL], [t("officialTwitch"), TWITCH_URL], [t("communityTool"), COMMUNITY_TOOL_URL]]} />
           <FooterList locale={locale} title={t("guides")} links={[[t("beginnerGuide"), "/guide"], [t("codesGuide"), "/codes"], [t("tierLists"), "/tier-list"], [t("fruitsGuide"), "/fruits"], [t("stylesGuide"), "/styles"], [t("weaponsGuide"), "/weapons"], [t("updatesGuide"), "/updates"], [t("resourcesGuide"), "/resources"], [t("privacyPolicy"), "/privacy-policy"], [t("termsOfService"), "/terms-of-service"]]} />
         </div>
         <p className="mt-10 border-t border-border pt-6 text-xs text-muted-foreground">{t("copyright")}</p>

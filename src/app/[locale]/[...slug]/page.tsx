@@ -11,7 +11,7 @@ import { CONTENT_TYPES } from "@/config/navigation";
 import { getLanguageAlternates, getLocalizedPath, getLocalizedUrl, type Locale } from "@/i18n/routing";
 import en from "@/locales/en.json";
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://hazeseas.help";
+const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://marvelrivalsseason9wiki.wiki";
 const defaultImage = "/images/hero.webp";
 
 type Messages = typeof en;

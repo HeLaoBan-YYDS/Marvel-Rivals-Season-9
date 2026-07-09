@@ -26,104 +26,24 @@ const copiedCodeLabel: LocalizedText = {
 
 export const ACTIVE_CODES: ActiveCode[] = [
   {
-    label: "PATCH",
+    label: "暂无",
     detail: {
-      en: "25 Gems and 15 minutes of 2x EXP.",
-      "pt-br": "25 gemas e 15 minutos de EXP 2x.",
-      es: "25 gemas y 15 minutos de EXP x2.",
-      fil: "25 Gems at 15 minutes ng 2x EXP.",
+      en: "No active code — Marvel Rivals Season 9 does not have a public code redemption system at launch.",
+      "pt-br": "Sem código ativo — Marvel Rivals Season 9 não possui um sistema público de resgate de códigos no lançamento.",
+      es: "Sin código activo — Marvel Rivals Season 9 no tiene un sistema público de canje de códigos en el lanzamiento.",
+      fil: "Walang aktibong code — Walang pampublikong code redemption system ang Marvel Rivals Season 9 sa launch.",
     },
-    badge: { en: "New", "pt-br": "Novo", es: "Nuevo", fil: "New" },
+    badge: { en: "TBD", "pt-br": "TBD", es: "TBD", fil: "TBD" },
   },
   {
-    label: "RELEASE",
+    label: "暂无",
     detail: {
-      en: "1 hour of 2x EXP.",
-      "pt-br": "1 hora de EXP 2x.",
-      es: "1 hora de EXP x2.",
-      fil: "1 oras ng 2x EXP.",
+      en: "Watch the official Discord and X for future code drops or seasonal promotions.",
+      "pt-br": "Acompanhe o Discord e o X oficiais para futuros códigos ou promoções sazonais.",
+      es: "Sigue el Discord y la X oficiales para próximos códigos o promociones de temporada.",
+      fil: "Subaybayan ang official Discord at X para sa mga future code drops o seasonal promotions.",
     },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
-  },
-  {
-    label: "FREECASH",
-    detail: {
-      en: "50k Cash.",
-      "pt-br": "50 mil de dinheiro.",
-      es: "50k de dinero.",
-      fil: "50k Cash.",
-    },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
-  },
-  {
-    label: "FREEGEMS",
-    detail: {
-      en: "50 Gems.",
-      "pt-br": "50 gemas.",
-      es: "50 gemas.",
-      fil: "50 Gems.",
-    },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
-  },
-  {
-    label: "SUBSCRIBETOHAZEYT",
-    detail: {
-      en: "50k Cash.",
-      "pt-br": "50 mil de dinheiro.",
-      es: "50k de dinero.",
-      fil: "50k Cash.",
-    },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
-  },
-  {
-    label: "Sub2Nikkolapz",
-    detail: {
-      en: "20 minutes of 2x EXP.",
-      "pt-br": "20 minutos de EXP 2x.",
-      es: "20 minutos de EXP x2.",
-      fil: "20 minutes ng 2x EXP.",
-    },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
-  },
-  {
-    label: "Sub2BadiTubes",
-    detail: {
-      en: "20 minutes of 2x EXP.",
-      "pt-br": "20 minutos de EXP 2x.",
-      es: "20 minutos de EXP x2.",
-      fil: "20 minutes ng 2x EXP.",
-    },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
-  },
-  {
-    label: "Sub2BrosSiam",
-    detail: {
-      en: "20 minutes of 2x EXP.",
-      "pt-br": "20 minutos de EXP 2x.",
-      es: "20 minutos de EXP x2.",
-      fil: "20 minutes ng 2x EXP.",
-    },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
-  },
-  {
-    label: "Sub2BuilderboyTV",
-    detail: {
-      en: "20 minutes of 2x EXP.",
-      "pt-br": "20 minutos de EXP 2x.",
-      es: "20 minutos de EXP x2.",
-      fil: "20 minutes ng 2x EXP.",
-    },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
-  },
-  {
-    label: "HAZESEAS2026",
-    detail: {
-      en: "10 Race Spins.",
-      "pt-br": "10 Race Spins.",
-      es: "10 Race Spins.",
-      fil: "10 Race Spins.",
-    },
-    badge: { en: "Active", "pt-br": "Ativo", es: "Activo", fil: "Active" },
+    badge: { en: "Soon", "pt-br": "Em breve", es: "Pronto", fil: "Soon" },
   },
 ];
 

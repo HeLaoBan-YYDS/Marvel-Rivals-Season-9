@@ -7,7 +7,7 @@ export function TrailerCard() {
   return (
     <div className="group relative cursor-pointer overflow-hidden rounded-2xl border border-border shadow-lg transition-all duration-200">
       <div className="relative aspect-video w-full">
-        <img src="/images/hero-trailer-thumbnail.jpg" alt="Haze Seas official trailer thumbnail" className="size-full object-cover transition-all duration-200 group-hover:brightness-80" />
+        <img src="/images/hero-trailer-thumbnail.jpg" alt="Marvel Rivals Season 9 official trailer thumbnail" className="size-full object-cover transition-all duration-200 group-hover:brightness-80" />
       </div>
       <div className="absolute inset-0 flex items-center justify-center">
         <div className="flex size-20 items-center justify-center rounded-full bg-primary/10 backdrop-blur-md transition-transform duration-200 group-hover:scale-105 sm:size-24">
@@ -25,7 +25,7 @@ export function TrailerDialog({ videoId, onClose, closeLabel = "Close" }: { vide
   return (
     <div id="trailer-dialog" role="dialog" aria-modal="true" className="fixed inset-0 z-[100] flex h-screen w-screen items-center justify-center bg-black/80 p-0 backdrop-blur-sm" onClick={(event) => { if (event.target === event.currentTarget) onClose(); }}>
       <div className="relative mx-4 w-full max-w-4xl">
-        <iframe id="trailer-iframe" title="Haze Seas video player" className="aspect-video w-full rounded-xl" src={`https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen />
+        <iframe id="trailer-iframe" title="Marvel Rivals Season 9 video player" className="aspect-video w-full rounded-xl" src={`https://www.youtube.com/embed/${videoId}?autoplay=1&rel=0`} allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen />
         <button type="button" className="absolute right-3 top-3 z-10 rounded-md bg-black/70 px-2.5 py-1 text-sm font-medium text-white/90 backdrop-blur-sm hover:text-white" onClick={onClose}>{closeLabel}</button>
       </div>
     </div>
