@@ -233,47 +233,58 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  codes: "Codes",
+  release: "Release",
+  characters: "Characters",
+  leaks: "Leaks",
+  battlepass: "Battle Pass",
+  skins: "Skins",
+  patch: "Patch",
+  teamups: "Team-Ups",
   guide: "Guide",
-  "tier-list": "Tier List",
-  fruits: "Fruits",
-  styles: "Styles",
-  weapons: "Weapons",
-  updates: "Updates",
-  resources: "Resources",
 };
 
 const GROUP_TITLES_ES: Record<string, string> = {
-  codes: "Códigos",
+  release: "Lanzamiento",
+  characters: "Personajes",
+  leaks: "Filtraciones",
+  battlepass: "Pase de Batalla",
+  skins: "Aspectos",
+  patch: "Notas del parche",
+  teamups: "Team-Ups",
   guide: "Guía",
-  "tier-list": "Tier List",
-  fruits: "Frutas",
-  styles: "Estilos",
-  weapons: "Armas",
-  updates: "Actualizaciones",
-  resources: "Recursos",
 };
 
 const GROUP_TITLES_PT_BR: Record<string, string> = {
-  codes: "Códigos",
+  release: "Lançamento",
+  characters: "Personagens",
+  leaks: "Vazamentos",
+  battlepass: "Passe de Batalha",
+  skins: "Skins",
+  patch: "Notas de patch",
+  teamups: "Team-Ups",
   guide: "Guia",
-  "tier-list": "Tier List",
-  fruits: "Frutas",
-  styles: "Estilos",
-  weapons: "Armas",
-  updates: "Atualizações",
-  resources: "Recursos",
+};
+
+const GROUP_TITLES_RU: Record<string, string> = {
+  release: "Выход",
+  characters: "Персонажи",
+  leaks: "Утечки",
+  battlepass: "Боевой пропуск",
+  skins: "Скины",
+  patch: "Список изменений",
+  teamups: "Командные умения",
+  guide: "Гид",
 };
 
 const GROUP_TITLES_FIL: Record<string, string> = {
-  codes: "Mga Code",
+  release: "Release",
+  characters: "Mga Karakter",
+  leaks: "Mga Leak",
+  battlepass: "Battle Pass",
+  skins: "Mga Skin",
+  patch: "Patch Notes",
+  teamups: "Team-Ups",
   guide: "Gabay",
-  "tier-list": "Tier List",
-  fruits: "Mga Prutas",
-  styles: "Mga Estilo",
-  weapons: "Mga Armas",
-  updates: "Mga Update",
-  resources: "Mga Resource",
 };
 
 // locale → 分组标题映射
@@ -281,6 +292,7 @@ const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   es: GROUP_TITLES_ES,
   fil: GROUP_TITLES_FIL,
   "pt-br": GROUP_TITLES_PT_BR,
+  ru: GROUP_TITLES_RU,
 };
 
 // locale → "Overview" 翻译
@@ -288,11 +300,12 @@ const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   es: "Resumen",
   fil: "Pangkalahatang-ideya",
   "pt-br": "Visão geral",
+  ru: "Обзор",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "codes", "guide", "tier-list", "fruits", "styles", "weapons", "updates", "resources",
+  "release", "characters", "leaks", "battlepass", "skins", "patch", "teamups", "guide",
 ];
 
 /**

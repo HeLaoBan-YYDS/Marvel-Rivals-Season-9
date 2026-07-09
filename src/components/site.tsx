@@ -36,7 +36,6 @@ export async function SiteHeader({ locale }: { locale: string }) {
         <span className="grid h-9 w-9 place-items-center overflow-hidden rounded-xl border border-[hsl(var(--nav-theme-light))] bg-background shadow-sm" aria-hidden="true">
           <Image src="/android-chrome-192x192.png" alt="" width={32} height={32} className="h-8 w-8 object-contain" priority />
         </span>
-        <span className="flex h-9 w-9 items-center justify-center rounded-xl border border-[hsl(var(--nav-theme))] bg-[hsl(var(--nav-theme))] text-sm font-extrabold tracking-tight text-primary-foreground shadow-sm" aria-hidden="true">M</span>
         <span className="text-sm font-bold tracking-wide text-foreground">Marvel Rivals Season 9</span>
       </Link>
       <nav className="hidden items-center gap-1 md:flex">
@@ -135,7 +134,7 @@ export async function SiteFooter({ locale }: { locale: string }) {
             <p className="mt-3 max-w-xl text-sm leading-7 text-muted-foreground">{t("about")}</p>
           </div>
           <FooterList locale={locale} title={t("quickLinks")} links={[[t("playGame"), STEAM_URL], [t("officialEvent"), OFFICIAL_SITE_URL], [t("officialDiscord"), DISCORD_URL], [t("officialYoutube"), YOUTUBE_CHANNEL_URL], [t("officialWiki"), OFFICIAL_WIKI_URL], [t("officialX"), X_URL], [t("officialTwitch"), TWITCH_URL], [t("communityTool"), COMMUNITY_TOOL_URL]]} />
-          <FooterList locale={locale} title={t("guides")} links={[[t("beginnerGuide"), "/guide"], [t("codesGuide"), "/codes"], [t("tierLists"), "/tier-list"], [t("fruitsGuide"), "/fruits"], [t("stylesGuide"), "/styles"], [t("weaponsGuide"), "/weapons"], [t("updatesGuide"), "/updates"], [t("resourcesGuide"), "/resources"], [t("privacyPolicy"), "/privacy-policy"], [t("termsOfService"), "/terms-of-service"]]} />
+          <FooterList locale={locale} title={t("guides")} links={NAVIGATION_CONFIG.map((item) => [t(`${item.key}Guide` as never), item.path] as [string, string]).concat([[t("privacyPolicy"), "/privacy-policy"], [t("termsOfService"), "/terms-of-service"]])} />
         </div>
         <p className="mt-10 border-t border-border pt-6 text-xs text-muted-foreground">{t("copyright")}</p>
       </div>

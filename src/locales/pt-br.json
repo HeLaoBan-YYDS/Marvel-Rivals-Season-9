@@ -1,1 +1,551 @@
-{}
+{
+  "site": {
+    "name": "Wiki da Marvel Rivals Temporada 9",
+    "shortName": "Marvel Rivals Temporada 9",
+    "tagline": "Wiki comunitária de fãs da Temporada 9",
+    "description": "A wiki da Marvel Rivals Temporada 9 ajuda os jogadores a acompanhar O Mistério de Tebas com detalhes de lançamento, guias para iniciantes, escolhas de heróis, mudanças de Team-Ups, notas de balanceamento, mapas, eventos e dicas de meta atualizadas para o hero shooter free-to-play da NetEase.",
+    "legalNotice": "Wiki independente de fãs. Não afiliada à NetEase Games, Marvel, Disney ou canais oficiais de Marvel Rivals."
+  },
+  "nav": {
+    "release": "Lançamento",
+    "characters": "Personagens",
+    "leaks": "Vazamentos",
+    "battlepass": "Passe de Batalha",
+    "skins": "Skins",
+    "patch": "Patch",
+    "teamups": "Team-Ups",
+    "guide": "Guia"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki da Marvel Rivals Temporada 9 — Guias e Notas de Patch",
+      "description": "Wiki de fãs da Marvel Rivals Temporada 9 com detalhes de lançamento, guias para iniciantes, escolhas de heróis, mudanças de Team-Ups, notas de balanceamento, mapas, eventos e dicas de meta atualizadas."
+    },
+    "hero": {
+      "eyebrow": "Wiki comunitária de fãs da Temporada 9",
+      "title": "Wiki da Marvel Rivals Temporada 9",
+      "description": "Acompanhe O Mistério de Tebas com guias claros da Temporada 9, notas de patch, escolhas de heróis, mudanças de Team-Ups, mapas e cobertura de eventos. Feito para jogadores que estão voltando, novos jogadores e times competitivos que querem respostas rápidas sem precisar ler atualizações longas.",
+      "stats": [
+        "Lançado em 5 de dezembro de 2024",
+        "A Temporada 9 começa em 10 de julho de 2026 UTC",
+        "Atualização de balanceamento Versão 20260710",
+        "Mais de 398K de avaliações na Steam",
+        "Pico histórico de 644K na Steam"
+      ],
+      "primaryCta": "Começar Guia para Iniciantes",
+      "secondaryCta": "Ler Notas de Patch da Temporada 9",
+      "tertiaryCta": "Explorar Team-Ups de Heróis",
+      "videoLabel": "Mídia oficial",
+      "closeVideo": "Fechar vídeo"
+    },
+    "updates": {
+      "title": "Últimas Atualizações",
+      "browse": "Ver Todos os Guias",
+      "viewAll": "Ver Tudo"
+    },
+    "start": {
+      "eyebrow": "Comece Aqui",
+      "title": "Sua Jornada em Marvel Rivals Temporada 9",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guia para Iniciantes",
+          "description": "Aprenda o fluxo básico de Marvel Rivals Temporada 9, incluindo papéis, objetivos, lutas de equipe, escolhas de heróis e como evitar erros comuns no começo."
+        },
+        {
+          "number": "2",
+          "title": "Notas de Patch da Temporada 9",
+          "description": "Entenda rapidamente as maiores mudanças da Temporada 9, incluindo atualizações de balanceamento, Escudos Regenerativos, ajustes de heróis e mudanças no ritmo de jogo."
+        },
+        {
+          "number": "3",
+          "title": "Escolhas de Heróis",
+          "description": "Encontre heróis fortes e amigáveis para iniciantes por papel, com explicações simples para Vanguards, Duelists e Strategists."
+        },
+        {
+          "number": "4",
+          "title": "Sistema de Team-Up",
+          "description": "Aprenda como as habilidades de Team-Up moldam as composições de equipe, quais pareamentos importam mais e como as mudanças da Temporada 9 afetam sua estratégia."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Em Alta Agora",
+      "quickLinks": [
+        "Códigos Ativos",
+        "Tier List de Heróis",
+        "Notas de Patch",
+        "Team-Ups"
+      ],
+      "cards": [
+        {
+          "badge": "Iniciante",
+          "title": "Guia para Iniciantes",
+          "description": "Comece Marvel Rivals Temporada 9 com o básico de papéis, escolhas de heróis, fluxo de objetivos e a meta inicial da Temporada 9.",
+          "href": "/guide/marvel-rivals-season-9-beginner-guide"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Códigos Ativos",
+          "description": "Acompanhe as campanhas de Twitch Drop, eventos de Discord e detalhes de recompensas cosméticas de Marvel Rivals Temporada 9.",
+          "href": "/codes"
+        },
+        {
+          "badge": "Atualizado",
+          "title": "Tier List de Heróis",
+          "description": "Compare os heróis de Marvel Rivals Temporada 9 por papel, taxa de vitória, direção de balanceamento e relevância na meta.",
+          "href": "/tier-list/marvel-rivals-season-9-hero-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Lista de Heróis",
+          "description": "Explore a lista completa de heróis de Marvel Rivals, incluindo os novos heróis da Temporada 9, habilidades e counters recomendados.",
+          "href": "/heroes"
+        },
+        {
+          "badge": "Novo",
+          "title": "Rota de Progressão",
+          "description": "Planeje subidas ranqueadas, prioridades de papel e fluxo de partidas ao longo do ciclo da meta da Temporada 9.",
+          "href": "/guide/marvel-rivals-season-9-leveling-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guia de Mapas",
+          "description": "Aprenda os layouts dos mapas, localizações de objetivos, linhas de visão e dicas para Convoy, Domination e Convergence.",
+          "href": "/maps"
+        },
+        {
+          "badge": "Popular",
+          "title": "Team-Ups",
+          "description": "Explore os pareamentos de Team-Up de Marvel Rivals, sinergias de heróis e as melhores composições para a nova temporada.",
+          "href": "/team-ups"
+        },
+        {
+          "badge": "Novo",
+          "title": "Passe de Batalha",
+          "description": "Acompanhe os níveis do Passe de Batalha da Temporada 9, as skins Míticas e os requisitos de desbloqueio para O Mistério de Tebas.",
+          "href": "/battle-pass"
+        },
+        {
+          "badge": "Novo",
+          "title": "Atualizações Oficiais",
+          "description": "Acompanhe trailers de Marvel Rivals Temporada 9, posts de Dev Vision, notas de balanceamento e links de atualizações da comunidade.",
+          "href": "/updates"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "O que é Marvel Rivals Temporada 9?",
+      "paragraphs": [
+        "Marvel Rivals é um hero shooter gratuito baseado em equipes onde os jogadores montam esquadrões da Marvel, combinam habilidades de Team-Up e lutam em campos de batalha destrutíveis do multiverso. A Temporada 9, O Mistério de Tebas, foca em um grande ciclo de atualização com novo conteúdo, mudanças de balanceamento e novas mudanças de meta.",
+        "Para um site de wiki, o ângulo de conteúdo mais forte não é a introdução geral ao jogo, mas a ajuda prática da Temporada 9: notas de patch, escolhas de heróis, explicações de Team-Up, dicas de mapas, rotas para iniciantes e resumos rápidos de atualizações para jogadores que voltam depois de uma pausa de temporada."
+      ],
+      "stats": [
+        {
+          "label": "Desenvolvedora",
+          "value": "NetEase Games"
+        },
+        {
+          "label": "Publicadora",
+          "value": "NetEase Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Windows / PS5 / PS4 / Xbox Series X|S / Epic / Launcher da NetEase"
+        },
+        {
+          "label": "Gênero",
+          "value": "Hero shooter gratuito baseado em equipes"
+        },
+        {
+          "label": "Data de Lançamento",
+          "value": "5 de dezembro de 2024"
+        },
+        {
+          "label": "Temporada Atual",
+          "value": "Temporada 9: O Mistério de Tebas"
+        },
+        {
+          "label": "Avaliações na Steam",
+          "value": "Mais de 398K"
+        },
+        {
+          "label": "Conquistas na Steam",
+          "value": "49"
+        }
+      ],
+      "cta": "Explorar Todos os Guias"
+    },
+    "explore": {
+      "title": "Explore os Guias de Marvel Rivals Temporada 9",
+      "description": "Mergulhe nas notas de patch, escolhas de heróis, Team-Ups, mapas, passe de batalha, skins e o roteiro completo para iniciantes da Temporada 9 de Marvel Rivals.",
+      "readFullGuide": "Ler Guia Completo",
+      "tierLabel": "Tier {tier}",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Recompensas Resgatáveis de Marvel Rivals Temporada 9",
+          "description": "Acompanhe as promoções ativas de Marvel Rivals Temporada 9, campanhas de Twitch Drop, eventos de Discord e recompensas cosméticas disponíveis durante a atualização O Mistério de Tebas.",
+          "href": "/codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Twitch Drops",
+              "detail": "Assista a streams parceiras de Marvel Rivals para ganhar recompensas cosméticas e sprays da Temporada 9 no jogo.",
+              "badge": "Ativo"
+            },
+            {
+              "label": "Eventos de Discord",
+              "detail": "Entre no Discord oficial de Marvel Rivals para receber códigos por tempo limitado e brindes sazonais.",
+              "badge": "Em breve"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Notas de Patch de Marvel Rivals Temporada 9",
+          "description": "Detalha a atualização de 10 de julho de 2026 de Marvel Rivals Temporada 9 com mudanças de balanceamento, Escudos Regenerativos, ajustes de heróis e notas sobre o ritmo de jogo.",
+          "href": "/guide/marvel-rivals-season-9-patch-notes",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Leia o post oficial de balanceamento Versão 20260710 para confirmar as mudanças herói por herói que chegam com a Temporada 9."
+            },
+            {
+              "label": "2",
+              "detail": "Confira a mecânica de Escudos Regenerativos, que ajusta como Vanguards e Strategists lidam com dano em rajada."
+            },
+            {
+              "label": "3",
+              "detail": "Revise os ajustes de heróis, incluindo o rework da Black Widow, antes de entrar em partidas ranqueadas na nova temporada."
+            },
+            {
+              "label": "4",
+              "detail": "Compare as direções de buffs e nerfs para atualizar a prioridade do seu papel, ordem de trocas e lista de counter-picks para a nova meta."
+            },
+            {
+              "label": "5",
+              "detail": "Acompanhe hotfixes posteriores e patches de fim de semana no feed oficial de balanceamento de Marvel Rivals para ajustes tardios da Temporada 9."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guia para Iniciantes de Marvel Rivals Temporada 9",
+          "description": "Siga uma rota prática de início cobrindo seleção de heróis, noções básicas de papéis, composições de equipe, objetivos e a meta inicial de Marvel Rivals Temporada 9.",
+          "href": "/guide/marvel-rivals-season-9-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Escolha um papel que combine com seu estilo de jogo e aprenda a movimentação básica, uso de cobertura e cadência de habilidades desse papel."
+            },
+            {
+              "label": "2",
+              "detail": "Escolha um herói fácil de executar por papel como seu pool inicial, focando em heróis com valor claro de Team-Up."
+            },
+            {
+              "label": "3",
+              "detail": "Aprenda o fluxo de objetivos nos mapas Convoy, Domination e Convergence para saber quando avançar, segurar ou rotacionar."
+            },
+            {
+              "label": "4",
+              "detail": "Monte composições de equipe em torno de um ou dois pareamentos fortes de Team-Up e adicione escolhas flexíveis que complementem o pareamento."
+            },
+            {
+              "label": "5",
+              "detail": "Revise as notas de patch da Temporada 9, a tier list por papel e o guia de counter-pick antes de subir no ranqueado na nova temporada."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Tier List de Heróis de Marvel Rivals Temporada 9",
+          "description": "Compare os heróis da Temporada 9 por papel, taxa de vitória, direção de balanceamento e relevância na meta para Vanguards, Duelists e Strategists.",
+          "href": "/tier-list/marvel-rivals-season-9-hero-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Melhores escolhas da meta após o patch 20260710, incluindo heróis com o maior potencial de duelo, utilidade e valor de Team-Up."
+            },
+            {
+              "label": "A",
+              "detail": "Escolhas ranqueadas confiáveis que mantêm uma taxa de vitória sólida quando combinadas com a composição e o mapa certos."
+            },
+            {
+              "label": "B",
+              "detail": "Heróis situacionais sólidos que funcionam em composições restritas, trocas fora do papel ou objetivos específicos do mapa."
+            },
+            {
+              "label": "C",
+              "detail": "Heróis de menor prioridade aguardando buffs, reworks ou melhor suporte de Team-Up antes de voltarem à meta."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Heróis de Marvel Rivals Temporada 9",
+          "description": "Explore a lista completa de heróis de Marvel Rivals Temporada 9, incluindo novos heróis com tema de Tebas, categorias de papel, habilidades e counters recomendados.",
+          "href": "/heroes",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Elenco",
+              "detail": "Acompanhe o elenco completo de heróis da Temporada 9 organizado pelos papéis Vanguard, Duelist e Strategist."
+            },
+            {
+              "label": "Novos Heróis",
+              "detail": "Conheça os novos heróis adicionados na Temporada 9 ligados à história de O Mistério de Tebas, incluindo suas habilidades e vínculos de Team-Up."
+            },
+            {
+              "label": "Habilidades",
+              "detail": "Compare as habilidades primária, secundária, ultimate e de Team-Up de cada herói para planejar suas trocas e counter-picks."
+            },
+            {
+              "label": "Counters",
+              "detail": "Encontre os counters comuns fortes e fracos para cada herói para ajustar suas escolhas antes do início da partida."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Team-Ups de Marvel Rivals Temporada 9",
+          "description": "Explore os pareamentos de Team-Up de Marvel Rivals, sinergias de heróis, combinações de papéis e como as mudanças da Temporada 9 afetam as duplas mais importantes.",
+          "href": "/team-ups",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pareamentos",
+              "detail": "Veja os pareamentos ativos de Team-Up da Temporada 9 e descubra quais heróis precisam estar no mesmo time para ativá-los."
+            },
+            {
+              "label": "Sinergias",
+              "detail": "Entenda as sinergias de heróis mais fortes para cada pareamento, incluindo qual papel deve liderar a combinação."
+            },
+            {
+              "label": "Montador de Comp",
+              "detail": "Planeje uma comp 6v6 que empilhe múltiplos Team-Ups sem deixar o time exposto à pressão de dive no início do jogo."
+            },
+            {
+              "label": "Mudanças da Temporada",
+              "detail": "Confira quais Team-Ups foram adicionados, removidos ou reformulados na atualização da Temporada 9 para manter as builds antigas precisas."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mapas de Marvel Rivals Temporada 9",
+          "description": "Aprenda os layouts dos mapas de Marvel Rivals Temporada 9, localizações de objetivos, linhas de visão e dicas para Convoy, Domination, Convergence e os campos de batalha com tema de Tebas.",
+          "href": "/maps",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Convoy",
+              "detail": "Acompanhe o trajeto do payload, posições em ângulos alternativos e linhas de visão em altura para a rotação do modo Convoy."
+            },
+            {
+              "label": "Domination",
+              "detail": "Planeje o tempo de captura, rotações de contenção e uso de ultimate para cada ponto de Domination no conjunto de mapas ativo."
+            },
+            {
+              "label": "Convergence",
+              "detail": "Aprenda os pontos de controle de Convergence, rotas de flanqueamento e como ler a área disputada para limpezas de equipe certeiras."
+            },
+            {
+              "label": "Mapas de Tebas",
+              "detail": "Conheça os novos campos de batalha com tema de Tebas introduzidos na Temporada 9, incluindo prioridades de objetivo e gargalos de lutas de equipe."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Passe de Batalha de Marvel Rivals Temporada 9",
+          "description": "Acompanhe os níveis, recompensas, skins e requisitos de desbloqueio do Passe de Batalha de Marvel Rivals Temporada 9 para a atualização O Mistério de Tebas.",
+          "href": "/battle-pass",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Níveis",
+              "detail": "Veja todos os níveis do Passe de Batalha da Temporada 9 com o custo de desbloqueio, trilha gratuita vs premium e custo acumulado de Chrono Tokens."
+            },
+            {
+              "label": "Skins",
+              "detail": "Confira as principais skins do Passe de Batalha da Temporada 9, incluindo skins de nível Mítico e variantes para heróis que retornam."
+            },
+            {
+              "label": "Recompensas",
+              "detail": "Liste as recompensas não cosméticas do passe, como emotes, sprays, placas de nome e pacotes de moeda."
+            },
+            {
+              "label": "Dicas de Desbloqueio",
+              "detail": "Encontre os métodos mais rápidos para concluir o Passe de Batalha, incluindo missões diárias, semanais e bônus de eventos."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Perguntas Frequentes",
+      "description": "Respostas rápidas para as perguntas mais comuns sobre Marvel Rivals Temporada 9.",
+      "items": [
+        {
+          "question": "O que é Marvel Rivals Temporada 9?",
+          "answer": "Marvel Rivals Temporada 9 é O Mistério de Tebas, uma grande atualização gratuita do hero shooter baseado em equipes da NetEase que adiciona novos heróis, um novo mapa, mudanças de balanceamento e a nova mecânica de Escudos Regenerativos."
+        },
+        {
+          "question": "Quando começa Marvel Rivals Temporada 9?",
+          "answer": "Marvel Rivals Temporada 9 começa em 10 de julho de 2026 UTC de acordo com o anúncio oficial de Dev Vision Vol. 19, com o post de balanceamento Versão 20260710 chegando no mesmo dia."
+        },
+        {
+          "question": "Qual herói de Marvel Rivals Temporada 9 os iniciantes devem escolher?",
+          "answer": "Iniciantes em Marvel Rivals Temporada 9 devem começar com um Vanguard ou Strategist que tenha um kit simples, valor claro de Team-Up e janelas de cooldown forgiving, e depois expandir o pool de heróis conforme a meta se estabiliza."
+        },
+        {
+          "question": "Como funcionam as habilidades de Team-Up em Marvel Rivals Temporada 9?",
+          "answer": "As habilidades de Team-Up em Marvel Rivals Temporada 9 são ativadas quando pareamentos específicos de heróis estão no mesmo time, concedendo efeitos bônus que moldam composições, counter-picks e rotações de ultimate."
+        },
+        {
+          "question": "O que são Escudos Regenerativos em Marvel Rivals Temporada 9?",
+          "answer": "Escudos Regenerativos são uma nova mecânica de Marvel Rivals Temporada 9 que permite que os escudos se recarreguem lentamente com o tempo, mudando a forma como Vanguards e Strategists gerenciam dano em rajada e lutas de equipe prolongadas."
+        },
+        {
+          "question": "Como funciona o Passe de Batalha de Marvel Rivals Temporada 9?",
+          "answer": "O Passe de Batalha de Marvel Rivals Temporada 9 roda junto com a atualização O Mistério de Tebas e desbloqueia skins Míticas, emotes, sprays e moeda conforme os jogadores progridem nas trilhas gratuita e premium da temporada."
+        },
+        {
+          "question": "Quais plataformas suportam Marvel Rivals Temporada 9?",
+          "answer": "Marvel Rivals Temporada 9 está disponível para Windows, PS5, PS4, Xbox Series X|S, Epic Games Store e o launcher da NetEase, com crossplay ativado em todas as plataformas."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Pronto para Dominar Marvel Rivals Temporada 9?",
+      "description": "Da sua primeira partida na Temporada 9 até pareamentos avançados de heróis e mudanças de balanceamento, esta wiki de fãs ajuda você a entender o que mudou, o que jogar e como melhorar mais rápido.",
+      "primary": "Ler o Guia para Iniciantes",
+      "secondary": "Jogar Marvel Rivals"
+    }
+  },
+  "release": {
+    "overviewTitle": "Lançamento da Temporada 9",
+    "overviewDescription": "Acompanhe a data de lançamento, contagem regressiva, trailers, revelações, transmissões ao vivo, roadmap e atualizações de Dev Vision de Marvel Rivals Temporada 9 para O Mistério de Tebas."
+  },
+  "characters": {
+    "overviewTitle": "Personagens da Temporada 9",
+    "overviewDescription": "Explore a lista de heróis de Marvel Rivals Temporada 9, personagens novos e próximos, e adições confirmadas como Jubilee, The Hood, Miles Morales e Gorr the God Butcher."
+  },
+  "leaks": {
+    "overviewTitle": "Vazamentos da Temporada 9",
+    "overviewDescription": "Fique por dentro dos vazamentos de Marvel Rivals Temporada 9, heróis insinuados, rumores do ano 2 e datamines reportados pela comunidade para O Mistério de Tebas."
+  },
+  "battlepass": {
+    "overviewTitle": "Passe de Batalha da Temporada 9",
+    "overviewDescription": "Confira os níveis, skins Míticas, skins e a trilha de recompensas do Passe de Batalha de Marvel Rivals Temporada 9 para a atualização O Mistério de Tebas."
+  },
+  "skins": {
+    "overviewTitle": "Skins da Temporada 9",
+    "overviewDescription": "Explore a linha de skins de Marvel Rivals Temporada 9, cosméticos de verão, acessórios, cards de galeria e variantes Míticas de destaque."
+  },
+  "patch": {
+    "overviewTitle": "Notas de Patch da Temporada 9",
+    "overviewDescription": "Acompanhe as notas de patch, mudanças de balanceamento, buffs e nerfs e atualizações de heróis de Marvel Rivals Temporada 9, incluindo o rework da Black Widow."
+  },
+  "teamups": {
+    "overviewTitle": "Team-Ups da Temporada 9",
+    "overviewDescription": "Explore os pareamentos de Team-Up de Marvel Rivals Temporada 9, os novos Team-Ups e como as combinações de Vanguard, Duelist e Strategist mudam a meta."
+  },
+  "guide": {
+    "overviewTitle": "Guias da Temporada 9",
+    "overviewDescription": "Leia o guia, prévias, notas de acesso antecipado, tier lists, takeaways do Reddit e resumos do rastreador ao vivo de Marvel Rivals Temporada 9 para O Mistério de Tebas."
+  },
+  "legal": {
+    "privacyPolicy": {
+      "title": "Política de Privacidade",
+      "description": "Política de Privacidade da Wiki da Marvel Rivals Temporada 9 - como lidamos com os dados dos visitantes e a privacidade neste centro de guias de fãs.",
+      "content": [
+        "Esta wiki de fãs fornece guias informativos do jogo para Marvel Rivals Temporada 9. Não solicitamos credenciais de conta, senhas da Steam, credenciais do Discord ou informações privadas de pagamento.",
+        "Provedores básicos de análise, publicidade e hospedagem podem processar informações técnicas padrão, como tipo de dispositivo, navegador, região aproximada e páginas visitadas.",
+        "Links externos podem levar à Steam, Discord, YouTube, X, Epic Games Store, PlayStation Store ou outros destinos da comunidade Marvel Rivals. Esses serviços são regidos por suas próprias políticas de privacidade."
+      ]
+    },
+    "about": {
+      "title": "Sobre",
+      "description": "Sobre a Wiki da Marvel Rivals Temporada 9 - um centro de guias independente feito por fãs, cobrindo heróis, Team-Ups, mapas, notas de patch e progressão.",
+      "content": [
+        "A Wiki da Marvel Rivals Temporada 9 é um centro de guias independente feito por fãs que cobre heróis, Team-Ups, mapas, notas de patch, mudanças de balanceamento, links oficiais e progressão para iniciantes da atualização O Mistério de Tebas.",
+        "O site liga os jogadores a destinos oficiais de Marvel Rivals, incluindo Steam, Discord, YouTube, X, Epic Games Store, PlayStation Store e o launcher oficial da NetEase, mantendo o conteúdo de guias de fãs separado dos canais oficiais."
+      ]
+    },
+    "termsOfService": {
+      "title": "Termos de Serviço",
+      "description": "Termos de Serviço da Wiki da Marvel Rivals Temporada 9 - termos de uso para este centro de guias independente feito por fãs.",
+      "content": [
+        "Este site é um centro de guias independente feito por fãs. O conteúdo é fornecido apenas para fins informativos e de entretenimento.",
+        "Sistemas de jogo, heróis, Team-Ups, mapas, mudanças de balanceamento e detalhes de atualizações são abordados como tópicos informativos para os jogadores de Marvel Rivals Temporada 9.",
+        "Ao usar este site, você concorda em não fazer mau uso dele, tentar acessos não autorizados ou apresentar esta wiki de fãs como uma propriedade oficial da NetEase Games, Marvel, Disney ou Marvel Rivals."
+      ]
+    },
+    "copyright": {
+      "title": "Copyright",
+      "description": "Informações de copyright da Wiki da Marvel Rivals Temporada 9 - propriedade e detalhes de remoção.",
+      "content": [
+        "Marvel Rivals, nomes de personagens da Marvel, a marca NetEase Games, logotipos, mídia do jogo e materiais relacionados pertencem aos seus respectivos proprietários.",
+        "Este site é uma implementação de wiki de fãs não oficial para fins educacionais, de referência e apresentação de guias.",
+        "Se você é proprietário de direitos sobre o conteúdo exibido aqui e tem alguma preocupação, entre em contato com o operador do site para análise."
+      ]
+    }
+  },
+  "shared": {
+    "menu": "Menu",
+    "toggleTheme": "Alternar tema",
+    "wikiNavigation": "Navegação da Wiki",
+    "activeCodes": "Códigos Ativos",
+    "updated": "Atualizado",
+    "viewAllCodes": "Ver todos os códigos",
+    "playOnRoblox": "Jogar no Roblox",
+    "inThisSection": "Nesta seção",
+    "tableOfContents": "Sumário",
+    "nextSteps": "Próximos Passos",
+    "needHelp": "Precisa de Ajuda?",
+    "relatedReading": "Leitura Relacionada",
+    "relatedGuides": "Guias Relacionados",
+    "readMore": "Ler mais",
+    "officialMedia": "Mídia oficial",
+    "home": "Início",
+    "noGuidesAvailable": "Ainda não há guias disponíveis. Volte em breve!",
+    "noActiveCode": "Nenhum código ativo",
+    "noCodesConfirmed": "Ainda não há códigos de Marvel Rivals Temporada 9 oficialmente confirmados.",
+    "futureCodeDrops": "Fique de olho no Discord e X oficiais para futuros lançamentos de códigos."
+  },
+  "footer": {
+    "aboutTitle": "Wiki da Marvel Rivals Temporada 9",
+    "about": "A Wiki da Marvel Rivals Temporada 9 é um site de guias independente feito por fãs para a atualização O Mistério de Tebas. Cobre guias para iniciantes, notas de patch, escolhas de heróis, mudanças de Team-Up, mapas, eventos e dicas práticas de meta para jogadores que querem respostas rápidas.",
+    "quickLinks": "Links Rápidos",
+    "guides": "Guias",
+    "legal": "Legal",
+    "copyright": "2026 Wiki da Marvel Rivals Temporada 9. Não afiliada à NetEase Games, Marvel ou Disney.",
+    "description": "Hero shooter gratuito baseado em equipes da Marvel com heróis sazonais, habilidades de Team-Up, mapas destrutíveis e combate rápido 6v6.",
+    "playGame": "Jogar Marvel Rivals",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "officialWebsite": "Marvel Rivals Oficial",
+    "robloxGroup": "Página Oficial na Steam",
+    "beginnerGuide": "Guia",
+    "releaseGuide": "Lançamento",
+    "charactersGuide": "Personagens",
+    "leaksGuide": "Vazamentos",
+    "battlepassGuide": "Passe de Batalha",
+    "skinsGuide": "Skins",
+    "patchGuide": "Patch",
+    "teamupsGuide": "Team-Ups",
+    "privacyPolicy": "Política de Privacidade",
+    "termsOfService": "Termos de Serviço",
+    "officialEvent": "Marvel Rivals Oficial",
+    "communityTool": "Marvel Rivals Esports",
+    "officialWiki": "Marvel Rivals Oficial",
+    "officialX": "X Oficial",
+    "officialReddit": "Reddit Oficial"
+  }
+}

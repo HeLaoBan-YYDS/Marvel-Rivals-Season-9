@@ -6,7 +6,16 @@
     "description": "Marvel Rivals Season 9 Wiki helps players track The Mystery of Thebes with release details, beginner guides, hero picks, team-up changes, balance notes, maps, events, and updated meta tips for NetEase's free-to-play hero shooter.",
     "legalNotice": "Independent fan wiki. Not affiliated with NetEase Games, Marvel, Disney, or official Marvel Rivals channels."
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "characters": "Characters",
+    "leaks": "Leaks",
+    "battlepass": "Battlepass",
+    "skins": "Skins",
+    "patch": "Patch",
+    "teamups": "Teamups",
+    "guide": "Guide"
+  },
   "home": {
     "meta": {
       "title": "Marvel Rivals Season 9 Wiki — Guides & Patch Notes",
@@ -419,14 +428,38 @@
       "secondary": "Play Marvel Rivals"
     }
   },
-  "codes": {},
-  "guide": {},
-  "tier-list": {},
-  "fruits": {},
-  "styles": {},
-  "weapons": {},
-  "updates": {},
-  "resources": {},
+  "release": {
+    "overviewTitle": "Season 9 Release",
+    "overviewDescription": "Track the Marvel Rivals Season 9 release date, countdown, trailers, reveals, live streams, roadmap, and Dev Vision updates for The Mystery of Thebes."
+  },
+  "characters": {
+    "overviewTitle": "Season 9 Characters",
+    "overviewDescription": "Browse the Marvel Rivals Season 9 hero roster, new and upcoming characters, and confirmed additions like Jubilee, The Hood, Miles Morales, and Gorr the God Butcher."
+  },
+  "leaks": {
+    "overviewTitle": "Season 9 Leaks",
+    "overviewDescription": "Stay current on Marvel Rivals Season 9 leaks, teased heroes, year 2 rumors, and community-reported datamines for The Mystery of Thebes."
+  },
+  "battlepass": {
+    "overviewTitle": "Season 9 Battle Pass",
+    "overviewDescription": "Review the Marvel Rivals Season 9 Battle Pass tiers, Mythic costumes, skins, and reward track for The Mystery of Thebes update."
+  },
+  "skins": {
+    "overviewTitle": "Season 9 Skins",
+    "overviewDescription": "Browse the Marvel Rivals Season 9 skin lineup, summer cosmetics, accessories, gallery cards, and headline Mythic variants."
+  },
+  "patch": {
+    "overviewTitle": "Season 9 Patch Notes",
+    "overviewDescription": "Follow the Marvel Rivals Season 9 patch notes, balance changes, buffs and nerfs, and hero updates including the Black Widow rework."
+  },
+  "teamups": {
+    "overviewTitle": "Season 9 Team-Ups",
+    "overviewDescription": "Explore the Marvel Rivals Season 9 Team-Up pairings, new team-ups, and how Vanguard, Duelist, and Strategist combinations shift the meta."
+  },
+  "guide": {
+    "overviewTitle": "Season 9 Guides",
+    "overviewDescription": "Read the Marvel Rivals Season 9 guide, previews, early access notes, tier lists, Reddit takeaways, and live tracker summaries for The Mystery of Thebes."
+  },
   "legal": {
     "privacyPolicy": {
       "title": "Privacy Policy",
@@ -500,13 +533,13 @@
     "officialWebsite": "Official Marvel Rivals",
     "robloxGroup": "Official Steam Page",
     "beginnerGuide": "Guide",
-    "codesGuide": "Codes",
-    "tierLists": "Tier List",
-    "fruitsGuide": "Fruits",
-    "stylesGuide": "Styles",
-    "weaponsGuide": "Weapons",
-    "updatesGuide": "Updates",
-    "resourcesGuide": "Resources",
+    "releaseGuide": "Release",
+    "charactersGuide": "Characters",
+    "leaksGuide": "Leaks",
+    "battlepassGuide": "Battlepass",
+    "skinsGuide": "Skins",
+    "patchGuide": "Patch",
+    "teamupsGuide": "Teamups",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service",
     "officialEvent": "Official Marvel Rivals",
