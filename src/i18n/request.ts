@@ -5,17 +5,17 @@ import { routing } from "./routing";
 // --- Static imports of every locale's UI messages -------------------------
 // When adding a language: add an import here AND an entry in `messagesMap`.
 import en from "@/locales/en.json";
-import ptBr from "@/locales/pt-br.json";
 import es from "@/locales/es.json";
-import fil from "@/locales/fil.json";
+import ptBr from "@/locales/pt-br.json";
+import ru from "@/locales/ru.json";
 
 type Messages = typeof en;
 
 const messagesMap: Record<string, Partial<Messages>> = {
   en,
-  "pt-br": ptBr as unknown as Partial<Messages>,
   es: es as unknown as Partial<Messages>,
-  fil: fil as unknown as Partial<Messages>,
+  "pt-br": ptBr as unknown as Partial<Messages>,
+  ru: ru as unknown as Partial<Messages>,
 };
 
 /**
