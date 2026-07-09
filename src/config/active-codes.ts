@@ -14,14 +14,14 @@ const copyCodeLabel: LocalizedText = {
   en: "Copy code",
   "pt-br": "Copiar código",
   es: "Copiar código",
-  fil: "Kopyahin ang code",
+  ru: "Копировать",
 };
 
 const copiedCodeLabel: LocalizedText = {
   en: "Copied",
   "pt-br": "Copiado",
   es: "Copiado",
-  fil: "Nakopya",
+  ru: "Скопировано",
 };
 
 export const ACTIVE_CODES: ActiveCode[] = [
@@ -31,9 +31,9 @@ export const ACTIVE_CODES: ActiveCode[] = [
       en: "No active code — Marvel Rivals Season 9 does not have a public code redemption system at launch.",
       "pt-br": "Sem código ativo — Marvel Rivals Season 9 não possui um sistema público de resgate de códigos no lançamento.",
       es: "Sin código activo — Marvel Rivals Season 9 no tiene un sistema público de canje de códigos en el lanzamiento.",
-      fil: "Walang aktibong code — Walang pampublikong code redemption system ang Marvel Rivals Season 9 sa launch.",
+      ru: "Нет активных кодов — в Marvel Rivals Season 9 на старте нет публичной системы активации кодов.",
     },
-    badge: { en: "TBD", "pt-br": "TBD", es: "TBD", fil: "TBD" },
+    badge: { en: "TBD", "pt-br": "TBD", es: "TBD", ru: "TBD" },
   },
   {
     label: "暂无",
@@ -41,9 +41,9 @@ export const ACTIVE_CODES: ActiveCode[] = [
       en: "Watch the official Discord and X for future code drops or seasonal promotions.",
       "pt-br": "Acompanhe o Discord e o X oficiais para futuros códigos ou promoções sazonais.",
       es: "Sigue el Discord y la X oficiales para próximos códigos o promociones de temporada.",
-      fil: "Subaybayan ang official Discord at X para sa mga future code drops o seasonal promotions.",
+      ru: "Следите за официальным Discord и X для будущих кодов и сезонных акций.",
     },
-    badge: { en: "Soon", "pt-br": "Em breve", es: "Pronto", fil: "Soon" },
+    badge: { en: "Soon", "pt-br": "Em breve", es: "Pronto", ru: "Скоро" },
   },
 ];
 
