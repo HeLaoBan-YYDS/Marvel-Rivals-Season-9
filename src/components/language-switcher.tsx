@@ -15,7 +15,7 @@ const LOCALE_LABELS: Record<Locale, string> = {
   en: "English",
   "pt-br": "Português do Brasil",
   es: "Español",
-  fil: "Filipino",
+  ru: "Русский",
 };
 
 export function LanguageSwitcher({ locale }: { locale: string }) {
