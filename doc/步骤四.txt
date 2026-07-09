@@ -2,9 +2,9 @@
 
 {{REQUIREMENTS_DIR}} = ./doc
 {{PROJECT_PATH}} = ./
-{{DOMAIN}} = hazeseas.help
-{{GAME_NAME}} = haze seas
-{{OLD_GAME_KEYWORD}} = Anime Vanguards  ||  VV: ULTIMATUM
+{{DOMAIN}} = marvelrivalsseason9wiki.wiki
+{{GAME_NAME}} = Marvel Rivals Season 9
+{{OLD_GAME_KEYWORD}} = haze seas
 
 参考：{{REQUIREMENTS_DIR}}/00基础信息.md、00首页模块.md（首页 8 模块完整数据；文件名以实际项目为准——早期项目可能是 `00首页信息.md`，现已统一为 `00首页模块.md`，不存在时按实际文件名查找）
 更新首页前端样式文案（删除所有内部URL链接，更新外部链接）

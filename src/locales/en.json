@@ -36,27 +36,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your Haze Seas Journey",
+      "title": "Your Marvel Rivals Season 9 Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "A complete new-player walkthrough covering controls, first goals, where to go first, and how to avoid early mistakes."
+          "description": "Learn the basic flow of Marvel Rivals Season 9, including roles, objectives, team fights, hero picks, and how to avoid common early mistakes."
         },
         {
           "number": "2",
-          "title": "Leveling Route & Islands",
-          "description": "The fastest island order, quest flow, and farming checkpoints most players search for in their first sessions."
+          "title": "Season 9 Patch Notes",
+          "description": "Quickly understand the biggest Season 9 changes, including balance updates, Regenerative Shields, hero adjustments, and gameplay rhythm changes."
         },
         {
           "number": "3",
-          "title": "Best Fruits & First Build",
-          "description": "Simple recommendations for starter fruits, stat priorities, and weapons so players can progress without wasting resources."
+          "title": "Hero Picks",
+          "description": "Find strong beginner-friendly and meta-relevant heroes by role, with simple explanations for Vanguards, Duelists, and Strategists."
         },
         {
           "number": "4",
-          "title": "Race Guide & Evolution",
-          "description": "A clearer breakdown of races, rerolls, strengths, and late-game value for both casual and grind-focused players."
+          "title": "Team-Up System",
+          "description": "Learn how Team-Up abilities shape team comps, which pairings matter most, and how Season 9 changes affect your strategy."
         }
       ]
     },
@@ -65,358 +65,314 @@
       "title": "Trending Now",
       "quickLinks": [
         "Active Codes",
-        "Fruit Tiers",
-        "Leveling Route",
-        "Race Evolution"
+        "Hero Tier List",
+        "Patch Notes",
+        "Team-Ups"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Start Haze Seas with controls, starter quests, first island goals, and early build choices.",
-          "href": "/guide/haze-seas-beginner-guide"
+          "description": "Start Marvel Rivals Season 9 with role basics, hero picks, objective flow, and the early Season 9 meta.",
+          "href": "/guide/marvel-rivals-season-9-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "Review Haze Seas code entries, Race Spin rewards, EXP boosts, and redemption steps.",
+          "description": "Review Marvel Rivals Season 9 Twitch Drop campaigns, Discord events, and cosmetic reward details.",
           "href": "/codes"
         },
         {
           "badge": "Updated",
-          "title": "Fruit Tier List",
-          "description": "Compare Haze Seas fruits by farming value, mobility, damage, utility, and PvP potential.",
-          "href": "/tier-list/haze-seas-fruit-tier-list"
+          "title": "Hero Tier List",
+          "description": "Compare Marvel Rivals Season 9 heroes by role, win rate, balance direction, and meta relevance.",
+          "href": "/tier-list/marvel-rivals-season-9-hero-tier-list"
         },
         {
           "badge": "Popular",
-          "title": "Devil Fruits",
-          "description": "Track fruit spawns, reworks, transformations, awakenings, and permanent build choices.",
-          "href": "/fruits/haze-seas-fruits"
+          "title": "Hero Roster",
+          "description": "Browse the full Marvel Rivals hero roster, including new Season 9 heroes, abilities, and recommended counters.",
+          "href": "/heroes"
         },
         {
           "badge": "New",
           "title": "Leveling Route",
-          "description": "Plan island quests, boss farming, sea events, and progression checkpoints across the three seas.",
-          "href": "/guide/haze-seas-leveling-guide"
+          "description": "Plan ranked climbs, role priorities, and match flow across the Season 9 meta cycle.",
+          "href": "/guide/marvel-rivals-season-9-leveling-guide"
         },
         {
           "badge": "Popular",
-          "title": "Weapons Guide",
-          "description": "Compare swords and weapons by obtainment, moveset, upgrades, and combat role.",
-          "href": "/weapons"
+          "title": "Maps Guide",
+          "description": "Learn map layouts, objective locations, sightlines, and tips for Convoy, Domination, and Convergence.",
+          "href": "/maps"
         },
         {
           "badge": "Popular",
-          "title": "Fighting Styles",
-          "description": "Learn trainer locations, evolved movesets, mastery goals, and close-range combat options.",
-          "href": "/styles/haze-seas-fighting-styles"
+          "title": "Team-Ups",
+          "description": "Explore Marvel Rivals Team-Up pairings, hero synergies, and the best comps for the new season.",
+          "href": "/team-ups"
         },
         {
           "badge": "New",
-          "title": "Races Guide",
-          "description": "Compare race bonuses, Race Spins, D. Clan access, and race evolution progression.",
-          "href": "/guide/haze-seas-races"
+          "title": "Battle Pass",
+          "description": "Track the Season 9 Battle Pass tiers, Mythic costumes, and unlock requirements for The Mystery of Thebes.",
+          "href": "/battle-pass"
         },
         {
           "badge": "New",
           "title": "Official Updates",
-          "description": "Follow Haze Seas trailers, release media, Trello references, and community update links.",
+          "description": "Follow Marvel Rivals Season 9 trailers, Dev Vision posts, balance notes, and community update links.",
           "href": "/updates"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Haze Seas?",
+      "title": "What is Marvel Rivals Season 9?",
       "paragraphs": [
-        "Haze Seas is a Roblox adventure RPG from Haze Studios built around sailing between islands, eating devil fruits, fighting bosses, and pushing your character through long-term progression. Official materials frame it as a One Piece-inspired pirate journey where players level up, discover islands, and chase rare drops.",
-        "The current version is positioned as a major rework of Haze Piece, with official channels highlighting new or reworked fruits, race systems, cutscenes, and broader progression content. That makes reference content especially valuable for tracking fruits, races, bosses, updates, and efficient routes."
+        "Marvel Rivals is a free-to-play team-based hero shooter where players build Marvel squads, combine Team-Up skills, and fight across destructible multiverse battlefields. Season 9, The Mystery of Thebes, focuses on a major update cycle with new content, balance changes, and fresh meta shifts.",
+        "For a wiki site, the strongest content angle is not general game introduction, but practical Season 9 help: patch notes, hero picks, team-up explanations, map tips, beginner routes, and fast update summaries for players returning after a season break."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Haze Studios"
+          "value": "NetEase Games"
+        },
+        {
+          "label": "Publisher",
+          "value": "NetEase Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Windows / PS5 / PS4 / Xbox Series X|S / Epic / NetEase Launcher"
         },
         {
           "label": "Genre",
-          "value": "Adventure RPG"
+          "value": "Free-to-play team-based hero shooter"
         },
         {
-          "label": "Visits",
-          "value": "239.7M+"
+          "label": "Release Date",
+          "value": "Dec 5, 2024"
         },
         {
-          "label": "Favorites",
-          "value": "3.14M+"
+          "label": "Current Season",
+          "value": "Season 9: The Mystery of Thebes"
         },
         {
-          "label": "Rating",
-          "value": "97.0%"
+          "label": "Steam Reviews",
+          "value": "398K+"
         },
         {
-          "label": "Peak CCU",
-          "value": "50,406"
-        },
-        {
-          "label": "Fruits",
-          "value": "34"
+          "label": "Steam Achievements",
+          "value": "49"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore Haze Seas Guides",
-      "description": "Jump into codes, beginner routes, fruit tiers, combat systems, bosses, weapons, fighting styles, and races for Haze Seas.",
+      "title": "Explore Marvel Rivals Season 9 Guides",
+      "description": "Jump into Season 9 patch notes, hero picks, team-ups, maps, battle pass, skins, and the full beginner roadmap for Marvel Rivals.",
       "readFullGuide": "Read Full Guide",
       "tierLabel": "{tier} Tier",
       "modules": [
         {
           "order": 1,
-          "name": "Haze Seas Codes",
-          "description": "Track Haze Seas codes, rewards, redemption steps, and legacy Haze Piece code status for Race Spins, EXP boosts, and future reward drops.",
+          "name": "Marvel Rivals Season 9 Redeemable Rewards",
+          "description": "Track active Marvel Rivals Season 9 promotions, Twitch Drop campaigns, Discord events, and cosmetic rewards available during The Mystery of Thebes update.",
           "href": "/codes",
           "displayType": "code-cards",
           "highlights": [
             {
-              "label": "PATCH",
-              "detail": "25 Gems and 15 minutes of 2x EXP.",
-              "badge": "New"
-            },
-            {
-              "label": "RELEASE",
-              "detail": "1 hour of 2x EXP.",
+              "label": "Twitch Drops",
+              "detail": "Watch partnered Marvel Rivals streams to earn Season 9 cosmetic rewards and in-game sprays.",
               "badge": "Active"
             },
             {
-              "label": "FREECASH",
-              "detail": "50k Cash.",
-              "badge": "Active"
-            },
-            {
-              "label": "FREEGEMS",
-              "detail": "50 Gems.",
-              "badge": "Active"
-            },
-            {
-              "label": "SUBSCRIBETOHAZEYT",
-              "detail": "50k Cash.",
-              "badge": "Active"
-            },
-            {
-              "label": "Sub2Nikkolapz",
-              "detail": "20 minutes of 2x EXP.",
-              "badge": "Active"
-            },
-            {
-              "label": "Sub2BadiTubes",
-              "detail": "20 minutes of 2x EXP.",
-              "badge": "Active"
-            },
-            {
-              "label": "Sub2BrosSiam",
-              "detail": "20 minutes of 2x EXP.",
-              "badge": "Active"
-            },
-            {
-              "label": "Sub2BuilderboyTV",
-              "detail": "20 minutes of 2x EXP.",
-              "badge": "Active"
-            },
-            {
-              "label": "HAZESEAS2026",
-              "detail": "10 Race Spins.",
-              "badge": "Active"
+              "label": "Discord Events",
+              "detail": "Join the official Marvel Rivals Discord for limited-time codes and seasonal gift drops.",
+              "badge": "Soon"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Haze Seas Beginner Guide",
-          "description": "Follow a practical starting route covering controls, quests, mastery, combat builds, and progression between seas. The guide directs new players toward the information needed before spending currency or committing stat points.",
-          "href": "/guide/haze-seas-beginner-guide",
+          "name": "Marvel Rivals Season 9 Patch Notes",
+          "description": "Break down the July 10 2026 Marvel Rivals Season 9 update with balance changes, Regenerative Shields, hero adjustments, and gameplay rhythm notes.",
+          "href": "/guide/marvel-rivals-season-9-patch-notes",
           "displayType": "step-by-step",
           "highlights": [
             {
               "label": "1",
-              "detail": "Launch Haze Seas from the official Roblox page and review the controls listed in the official Trello Game Info section."
+              "detail": "Read the official Version 20260710 Balance Post to confirm hero-by-hero changes that land with Season 9."
             },
             {
               "label": "2",
-              "detail": "Complete the available starter quests and defeat nearby enemies to gain levels, currency, and mastery."
+              "detail": "Check the Regenerative Shields mechanic, which adjusts how Vanguards and Strategists manage incoming burst damage."
             },
             {
               "label": "3",
-              "detail": "Choose a primary damage path built around a Devil Fruit, Sword, or Fighting Style before heavily investing stat points."
+              "detail": "Review hero adjustments, including the Black Widow rework, before queuing ranked matches in the new season."
             },
             {
               "label": "4",
-              "detail": "Use the Trello NPC, Boss, and Location sections to identify trainers, quest targets, and progression islands."
+              "detail": "Compare buff and nerf directions to update your role priority, swap order, and counter-pick list for the new meta."
             },
             {
               "label": "5",
-              "detail": "Advance through the three seas while improving mastery, equipment, race bonuses, and boss-ready abilities."
+              "detail": "Track follow-up hotfixes and weekend patches on the official Marvel Rivals balance feed for late Season 9 tuning."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Haze Seas Fruit Tier List",
-          "description": "Compare Devil Fruits by damage, mobility, farming value, defensive utility, and PvP potential. This launch baseline groups fruit aliases into a quick tier view for early build planning.",
-          "href": "/tier-list/haze-seas-fruit-tier-list",
-          "displayType": "tier-grid",
+          "name": "Marvel Rivals Season 9 Beginner Guide",
+          "description": "Follow a practical starting route covering hero selection, role basics, team comps, objectives, and the early Marvel Rivals Season 9 meta.",
+          "href": "/guide/marvel-rivals-season-9-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S",
-              "detail": "Dragon, Darkness, Magma, Phoenix, Magnet, Gum"
+              "label": "1",
+              "detail": "Pick a role that matches your playstyle, then learn the basic movement, cover usage, and ability cadence for that role."
             },
             {
-              "label": "A",
-              "detail": "Flame, Gravity, Electricity, Snow, Mammoth, Gas, Buddha, Light, Operation, Ice, String"
+              "label": "2",
+              "detail": "Choose one easy-to-execute hero per role as your starting pool, focusing on heroes with clear team-up value."
             },
             {
-              "label": "B",
-              "detail": "Bomb, Sand, Barrier, Tremor"
+              "label": "3",
+              "detail": "Learn the objective flow on Convoy, Domination, and Convergence maps so you always know when to push, hold, or rotate."
             },
             {
-              "label": "C",
-              "detail": "Paw, Spin, Chop, Spike, Clear, Smoke"
+              "label": "4",
+              "detail": "Build team comps around one or two strong Team-Up pairings, then add flex picks that complement the pairing."
+            },
+            {
+              "label": "5",
+              "detail": "Review the Season 9 patch notes, role tier list, and counter-pick guide before climbing ranked in the new season."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Haze Seas Devil Fruits and Awakenings",
-          "description": "Explore the official fruit roster, spawning rules, reworked abilities, transformations, and awakening content. This section helps players compare fruit availability before choosing a permanent build.",
-          "href": "/fruits",
-          "displayType": "card-list",
+          "name": "Marvel Rivals Season 9 Hero Tier List",
+          "description": "Compare Season 9 heroes by role, win rate, balance direction, and meta relevance for Vanguards, Duelists, and Strategists.",
+          "href": "/tier-list/marvel-rivals-season-9-hero-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "34 Fruits",
-              "detail": "The official game description lists 34 fruits, ranging from Clear, Chop, and Spin to Dragon, Dough, Venom, Phoenix, and Darkness."
+              "label": "S",
+              "detail": "Top meta picks after the 20260710 patch, including heroes with the strongest duel potential, utility, and team-up value."
             },
             {
-              "label": "Spawn Cycle",
-              "detail": "Fruits spawn every 60 minutes and disappear after 20 minutes when they are not collected."
+              "label": "A",
+              "detail": "Reliable ranked picks that hold a strong win rate when paired with the right team comp and map."
             },
             {
-              "label": "VIP Servers",
-              "detail": "VIP servers support fruit spawning with a maximum of five uncollected fruit spawns."
+              "label": "B",
+              "detail": "Solid situational heroes that work in narrow comps, off-role swaps, or specific map objectives."
             },
             {
-              "label": "Reworked Fruits",
-              "detail": "Haze Studios has officially showcased fruit reworks, including a dedicated Tremor rework and a broader Fruits Rework Part 1 preview."
-            },
-            {
-              "label": "Awakenings",
-              "detail": "The official Fruit Awakening Cutscene confirms awakening-focused progression and transformed fruit abilities."
+              "label": "C",
+              "detail": "Lower-priority heroes waiting on buffs, reworks, or better Team-Up support before they return to the meta."
             }
           ]
         },
         {
           "order": 5,
-          "name": "Haze Seas Leveling, Bosses and Sea Events",
-          "description": "Plan progression through islands, quest zones, bosses, and events across all three seas. The module focuses on finding the correct content for the player's current level instead of wandering between unsuitable locations.",
-          "href": "/guide/haze-seas-leveling-guide",
-          "displayType": "step-by-step",
+          "name": "Marvel Rivals Season 9 Heroes",
+          "description": "Browse the full Marvel Rivals Season 9 hero roster, including new Thebes-themed heroes, role categories, abilities, and recommended counters.",
+          "href": "/heroes",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "1",
-              "detail": "Check the official Trello Locations and NPC sections to identify the island containing your next quest giver."
+              "label": "Roster",
+              "detail": "Track the full Season 9 hero roster organized by Vanguard, Duelist, and Strategist roles."
             },
             {
-              "label": "2",
-              "detail": "Complete island quests and defeat local enemies until the next progression area becomes practical."
+              "label": "New Heroes",
+              "detail": "Review newly added Season 9 heroes tied to The Mystery of Thebes storyline, including their abilities and team-up links."
             },
             {
-              "label": "3",
-              "detail": "Fight island bosses for experience, currency, equipment, and boss-specific progression materials."
+              "label": "Abilities",
+              "detail": "Compare primary, secondary, ultimate, and Team-Up abilities for each hero to plan your swaps and counter-picks."
             },
             {
-              "label": "4",
-              "detail": "Review the Bosses section before farming so you know the required location, encounter conditions, and available drops."
-            },
-            {
-              "label": "5",
-              "detail": "Track Sea Events separately because event encounters can appear across the game's three seas."
+              "label": "Counters",
+              "detail": "Find common hard and soft counters for each hero so you can adjust picks before the match starts."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Haze Seas Weapons and Swords",
-          "description": "Compare swords and other weapons by obtainment method, moveset, upgrade path, and intended combat role. The official Trello and Haze Studios showcases provide the foundation for tracking reworked and newly added weapons.",
-          "href": "/weapons",
+          "name": "Marvel Rivals Season 9 Team-Ups",
+          "description": "Explore Marvel Rivals Team-Up pairings, hero synergies, role combinations, and how Season 9 changes affect which duos matter most.",
+          "href": "/team-ups",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Sword Builds",
-              "detail": "Swords provide a dedicated weapon-focused damage path separate from Devil Fruit and Fighting Style builds."
+              "label": "Pairings",
+              "detail": "Browse the active Season 9 Team-Up pairings and learn which heroes must be on the same team to activate them."
             },
             {
-              "label": "Reworked Movesets",
-              "detail": "Haze Studios released an official Swords Rework Part 1 showcase demonstrating redesigned sword combat."
+              "label": "Synergies",
+              "detail": "Understand the strongest hero synergies for each pairing, including which role should lead the combo."
             },
             {
-              "label": "Obtainment",
-              "detail": "Weapon acquisition information is organized through the official Trello, including NPC purchases, requirements, and boss-related drops."
+              "label": "Comp Builder",
+              "detail": "Plan a 6v6 comp that stacks multiple Team-Ups without leaving the team open to early-game dive pressure."
             },
             {
-              "label": "Upgrades",
-              "detail": "Some weapons have upgraded or evolved versions that require additional progression after obtaining the base weapon."
+              "label": "Season Changes",
+              "detail": "Check which Team-Ups were added, removed, or reworked in the Season 9 update so old builds stay accurate."
             }
           ]
         },
         {
           "order": 7,
-          "name": "Haze Seas Fighting Styles and Evolutions",
-          "description": "Learn how fighting styles work, where their trainers are found, and which evolved movesets have been officially showcased. This section is designed for players building around close-range combat and mastery progression.",
-          "href": "/styles",
+          "name": "Marvel Rivals Season 9 Maps",
+          "description": "Learn Marvel Rivals Season 9 map layouts, objective locations, sightlines, and tips for Convoy, Domination, Convergence, and Thebes-themed battlefields.",
+          "href": "/maps",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Black Leg",
-              "detail": "A kick-focused fighting style with an officially showcased evolution and redesigned combat abilities."
+              "label": "Convoy",
+              "detail": "Track the payload path, off-angle positions, and high-ground sightlines for the Convoy mode rotation."
             },
             {
-              "label": "Electro",
-              "detail": "An electricity-based fighting style with an official evolution showcase focused on an expanded moveset."
+              "label": "Domination",
+              "detail": "Plan capture timing, hold rotations, and ultimate usage for each Domination point across the active map pool."
             },
             {
-              "label": "Style Trainers",
-              "detail": "Fighting styles are learned through their relevant trainers, which can be located through the official Trello NPC and Fighting Styles sections."
+              "label": "Convergence",
+              "detail": "Learn the Convergence control points, flank routes, and how to read the contested area for clean team wipes."
             },
             {
-              "label": "Evolution Progression",
-              "detail": "Evolved fighting styles provide upgraded abilities beyond their base versions and may require mastery or additional unlock conditions."
+              "label": "Thebes Maps",
+              "detail": "Review new Thebes-themed battlefields introduced in Season 9, including objective priorities and team-fight chokes."
             }
           ]
         },
         {
           "order": 8,
-          "name": "Haze Seas Races and Evolutions",
-          "description": "Compare races by rarity, passive bonuses, appearance changes, and evolution potential. Race selection can affect mobility, survivability, stamina, progression income, and access to special abilities.",
-          "href": "/guide/haze-seas-races",
+          "name": "Marvel Rivals Season 9 Battle Pass",
+          "description": "Track the Marvel Rivals Season 9 Battle Pass tiers, rewards, costumes, and unlock requirements for The Mystery of Thebes update.",
+          "href": "/battle-pass",
           "displayType": "card-list",
           "highlights": [
             {
-              "label": "Race Bonuses",
-              "detail": "Each race can provide a different combination of passive bonuses, making race selection part of the player's overall build."
+              "label": "Tiers",
+              "detail": "Browse all Season 9 Battle Pass tiers with the unlock cost, free vs premium track, and cumulative Chrono Token cost."
             },
             {
-              "label": "Race Spins",
-              "detail": "Race Spins are used to reroll the player's race and have historically been distributed through codes and progression rewards."
+              "label": "Costumes",
+              "detail": "Preview the headline Season 9 Battle Pass costumes, including Mythic-tier and variant skins for returning heroes."
             },
             {
-              "label": "D. Clan",
-              "detail": "The official Roblox description states that the D. Clan grants access to Conqueror's Haki."
+              "label": "Rewards",
+              "detail": "List the non-costume rewards in the pass, such as emotes, sprays, nameplates, and currency bundles."
             },
             {
-              "label": "Race Evolution",
-              "detail": "Haze Studios has released an official Race Evolution Showcase confirming evolved race appearances and progression."
+              "label": "Unlock Tips",
+              "detail": "Find the fastest Battle Pass completion methods, including daily mission, weekly mission, and event bonuses."
             }
           ]
         }
@@ -424,35 +380,35 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Haze Seas.",
+      "description": "Quick answers to the most common questions about Marvel Rivals Season 9.",
       "items": [
         {
-          "question": "What is Haze Seas?",
-          "answer": "Haze Seas is a One Piece-inspired Roblox sea adventure from Haze Studios, focused on fruits, races, bosses, islands, and long-term character progression."
+          "question": "What is Marvel Rivals Season 9?",
+          "answer": "Marvel Rivals Season 9 is The Mystery of Thebes, a major free-to-play update for NetEase's team-based hero shooter that adds new heroes, a new map, balance changes, and the new Regenerative Shields mechanic."
         },
         {
-          "question": "Is Haze Seas the same as Haze Piece?",
-          "answer": "Haze Seas carries the rework branding for the Haze Piece project, with Haze Seas guides focusing on the current fruits, races, bosses, islands, and progression systems."
+          "question": "When does Marvel Rivals Season 9 start?",
+          "answer": "Marvel Rivals Season 9 begins on July 10, 2026 UTC according to the official Dev Vision Vol. 19 announcement, with the Version 20260710 balance post landing on the same day."
         },
         {
-          "question": "How should beginners start Haze Seas?",
-          "answer": "Beginners should start Haze Seas by learning controls, clearing starter quests, choosing a main damage path, and following island progression before spending heavily on rerolls."
+          "question": "Which Marvel Rivals Season 9 hero should beginners pick?",
+          "answer": "Beginners in Marvel Rivals Season 9 should start with a Vanguard or Strategist that has a simple kit, clear team-up value, and forgiving cooldown windows, then expand the hero pool as the meta stabilizes."
         },
         {
-          "question": "Which Haze Seas fruit or build should beginners choose?",
-          "answer": "A beginner Haze Seas build should focus on one main path first, usually a Devil Fruit, Sword, or Fighting Style, then add race bonuses and equipment that support that choice."
+          "question": "How do Team-Up abilities work in Marvel Rivals Season 9?",
+          "answer": "Team-Up abilities in Marvel Rivals Season 9 activate when specific hero pairings are on the same team, granting bonus effects that shape comps, counter-picks, and ultimate rotations."
         },
         {
-          "question": "How do Haze Seas race rerolls and race evolution work?",
-          "answer": "Haze Seas race progression uses Race Spins for rerolls, race bonuses for build identity, and race evolution content for stronger appearances, passives, and late-game value."
+          "question": "What are Regenerative Shields in Marvel Rivals Season 9?",
+          "answer": "Regenerative Shields are a new Marvel Rivals Season 9 mechanic that lets shields slowly recharge over time, changing how Vanguards and Strategists manage burst damage and sustained team fights."
         },
         {
-          "question": "Where should Haze Seas players level and farm bosses?",
-          "answer": "Haze Seas players should follow island quests, use the Bosses and Locations references, and farm bosses that match their current sea, level range, and build strength."
+          "question": "How does the Marvel Rivals Season 9 Battle Pass work?",
+          "answer": "The Marvel Rivals Season 9 Battle Pass runs alongside The Mystery of Thebes update and unlocks Mythic costumes, emotes, sprays, and currency as players progress through the season's free and premium tracks."
         },
         {
-          "question": "Where can Haze Seas players check codes and updates?",
-          "answer": "Haze Seas players can use the Codes section for redemption steps and follow the Roblox, Discord, YouTube, and Trello links for reward drops, patch notes, and release media."
+          "question": "Which platforms support Marvel Rivals Season 9?",
+          "answer": "Marvel Rivals Season 9 is available on Windows, PS5, PS4, Xbox Series X|S, the Epic Games Store, and the NetEase launcher, with crossplay enabled across all platforms."
         }
       ]
     },
@@ -474,35 +430,35 @@
   "legal": {
     "privacyPolicy": {
       "title": "Privacy Policy",
-      "description": "Privacy Policy for Haze Seas Wiki - how we handle visitor data and privacy on this fan-made guide hub.",
+      "description": "Privacy Policy for Marvel Rivals Season 9 Wiki - how we handle visitor data and privacy on this fan-made guide hub.",
       "content": [
-        "This fan wiki provides informational game guides for Haze Seas on Roblox. We do not request account credentials, Roblox passwords, Discord credentials, or private payment information.",
+        "This fan wiki provides informational game guides for Marvel Rivals Season 9. We do not request account credentials, Steam passwords, Discord credentials, or private payment information.",
         "Basic analytics, advertising, and hosting providers may process standard technical information such as device type, browser, approximate region, and visited pages.",
-        "External links may lead to Roblox, Discord, YouTube, Trello, Reddit, X, Fandom, or other Haze Seas community destinations. Those services are governed by their own privacy policies."
+        "External links may lead to Steam, Discord, YouTube, X, Epic Games Store, PlayStation Store, or other Marvel Rivals community destinations. Those services are governed by their own privacy policies."
       ]
     },
     "about": {
       "title": "About",
-      "description": "About Haze Seas Wiki - an independent fan-built guide hub for Roblox players covering fruits, races, bosses, islands, and progression.",
+      "description": "About Marvel Rivals Season 9 Wiki - an independent fan-built guide hub covering heroes, team-ups, maps, patch notes, and progression.",
       "content": [
-        "Haze Seas Wiki is an independent fan-built guide hub for Roblox players covering fruits, races, bosses, islands, farming, update notes, official links, and beginner progression.",
-        "The site links players to official Haze Seas destinations including Roblox, Discord, YouTube, Trello, Reddit, X, and the official Fandom wiki while keeping fan guide content separate from official channels."
+        "Marvel Rivals Season 9 Wiki is an independent fan-built guide hub covering heroes, team-ups, maps, patch notes, balance changes, official links, and beginner progression for The Mystery of Thebes update.",
+        "The site links players to official Marvel Rivals destinations including Steam, Discord, YouTube, X, Epic Games Store, PlayStation Store, and the official NetEase launcher while keeping fan guide content separate from official channels."
       ]
     },
     "termsOfService": {
       "title": "Terms of Service",
-      "description": "Terms of Service for Haze Seas Wiki - usage terms for this independent fan-made guide hub.",
+      "description": "Terms of Service for Marvel Rivals Season 9 Wiki - usage terms for this independent fan-made guide hub.",
       "content": [
         "This site is an independent fan-made guide hub. Content is provided for informational and entertainment purposes only.",
-        "Game systems, codes, drops, fruits, races, bosses, islands, and update details are covered as informational guide topics for Haze Seas players.",
-        "By using this site, you agree not to misuse it, attempt unauthorized access, or present this fan wiki as an official Haze Studios, Roblox, or Haze Seas property."
+        "Game systems, heroes, team-ups, maps, balance changes, and update details are covered as informational guide topics for Marvel Rivals Season 9 players.",
+        "By using this site, you agree not to misuse it, attempt unauthorized access, or present this fan wiki as an official NetEase Games, Marvel, Disney, or Marvel Rivals property."
       ]
     },
     "copyright": {
       "title": "Copyright",
-      "description": "Copyright information for Haze Seas Wiki - ownership and takedown details.",
+      "description": "Copyright information for Marvel Rivals Season 9 Wiki - ownership and takedown details.",
       "content": [
-        "Haze Seas, Haze Piece, Roblox, Haze Studios branding, logos, game media, and related materials belong to their respective owners.",
+        "Marvel Rivals, Marvel character names, NetEase Games branding, logos, game media, and related materials belong to their respective owners.",
         "This site is a non-official fan wiki implementation for educational, reference, and guide presentation purposes.",
         "If you own rights to content displayed here and have a concern, please contact the site operator for review."
       ]

@@ -2,10 +2,10 @@
 
 {{REQUIREMENTS_DIR}} = ./doc
 {{PROJECT_PATH}} = ./
-{{DOMAIN}} = hazeseas.help
-{{GAME_NAME}} = haze seas
-{{OLD_GAME_KEYWORD}} = Anime Vanguards  ||  VV: ULTIMATUM
-{{articles_DIR}} = D:\code\seoscout\output\haze_seas
+{{DOMAIN}} = marvelrivalsseason9wiki.wiki
+{{GAME_NAME}} = Marvel Rivals Season 9
+{{OLD_GAME_KEYWORD}} = haze seas
+{{articles_DIR}} = D:\code\seoscout\output\marvel_rivals_season_9
 
 
 ## G1. 拉取文章到项目
