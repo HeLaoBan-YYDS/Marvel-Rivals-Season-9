@@ -3,9 +3,9 @@
 
 {{REQUIREMENTS_DIR}} = ./doc
 {{PROJECT_PATH}} = ./
-{{DOMAIN}} = 	hazeseas.help
-{{GAME_NAME}} = haze seas
-{{OLD_GAME_KEYWORD}} = Anime Vanguards  ||  VV: ULTIMATUM
+{{DOMAIN}} = marvelrivalsseason9wiki.wiki
+{{GAME_NAME}} = Marvel Rivals Season 9
+{{OLD_GAME_KEYWORD}} = haze seas
 
 参考：{{REQUIREMENTS_DIR}}/00基础信息.md youtube视频
 更新首页youtube视频ID（`src/app/[locale]/HomePageClient.tsx` 第 19 行的 `YOUTUBE_VIDEO_ID` 常量）

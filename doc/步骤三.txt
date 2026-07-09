@@ -2,9 +2,9 @@
 
 {{REQUIREMENTS_DIR}} = ./doc
 {{PROJECT_PATH}} = ./
-{{DOMAIN}} = hazeseas.help
-{{GAME_NAME}} = haze seas
-{{OLD_GAME_KEYWORD}} = Anime Vanguards  ||  VV: ULTIMATUM
+{{DOMAIN}} = marvelrivalsseason9wiki.wiki
+{{GAME_NAME}} = Marvel Rivals Season 9
+{{OLD_GAME_KEYWORD}} = haze seas
 
 优先根据{{REQUIREMENTS_DIR}}/00基础文档.md里明确指定的最终语言集合更新站点自身的多语言配置；仅在 `languages.json` 缺失时，才回退参考 `00基础信息.md`。
 
